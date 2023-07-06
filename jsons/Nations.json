@@ -30,8 +30,8 @@
 		"outerColor": [0, 21, 255],
 	        "innerColor": [181, 12, 0],
 		
-		"uniqueName": "Land Value Program",
-                "unique": ["[+3 Production] from every [Pasture]", "[+3 Food] from every [Plantation]", "[+50]% [Gold] [in capital]"],
+		"uniqueName": "Money Trick",
+                "unique": ["[+3 Gold] from every [Luxury resource]","[+100]% [Gold] [in capital]"],
 		
 	        "cities": ["Pilio City", "Wersa", "Frano", "Mirpo", "Qures", "Kali", "Cater", "Lomangan", "Iodan", "Prutor", "Youna", "Zaroone"]
 	}
