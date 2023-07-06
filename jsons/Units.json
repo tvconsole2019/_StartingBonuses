@@ -1,9 +1,9 @@
 [
 	{
 	"name": "Great Networker",
+	
 	"unitType": "Civilian",
-	"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [50] Influence",
-		"Can instantly construct a [Customs house] improvement <by consuming this unit>",
+	"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [50] Influence"],
 		"Great Person - [Gold]", "Unbuildable", "Uncapturable"
 	],
 	"movement": 3
