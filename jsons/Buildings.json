@@ -86,6 +86,7 @@
 	},
 	{
 		"name": "Drama Room",
+		"replaces": "Amphitheater",
 		"uniqueTo": "Great Republic",
 		"happiness": -1,
 		"culture": 5,
