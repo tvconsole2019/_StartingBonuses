@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Great Republic",
-		"leaderName": "Ryan IV",
+		"leaderName": "Ryan the Rich",
 		"adjective": ["Greatrepublic"],
 		"startBias": ["Coast", "Avoid [Tundra]"],
 		"preferredVictoryType": "Cultural",
@@ -30,8 +30,8 @@
 		"outerColor": [0, 21, 255],
 	        "innerColor": [181, 12, 0],
 		
-		"uniqueName": "Mare Clausum",
-		"uniques": ["[+5 Gold] from every [Luxury resource]","[+100]% [Gold] [in capital]"],
+		"uniqueName": "Midas Normalcy",
+		"uniques": ["[+5 Gold] from every [Luxury resource]","[+100]% [Gold] [in capital]","[+25]% [Culture] [in capital]"],
 		
 	        "cities": ["Pilio City", "Wersa", "Frano", "Mirpo", "Qures", "Kali", "Cater", "Lomangan", "Iodan", "Prutor", "Youna", "Zaroone"]
 	}
