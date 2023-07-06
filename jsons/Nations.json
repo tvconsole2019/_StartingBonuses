@@ -30,7 +30,7 @@
 		"outerColor": [0, 21, 255],
 	        "innerColor": [181, 12, 0],
 		"uniqueName": "Land Value Program",
-                "unique": ["[+30]% Production towards any buildings that already exist in the Capital", "[+2 Production] from every [Strategic resource]", "[+1 Culture, +2 Gold, +1 Production] from every [Pasture]", "[+1 Faith, +4 Gold] from every [Mine]", "[+10]% Production when constructing [All] buildings [in all cities]", "[Great Merchant] is earned [50]% faster", "[+2 Culture, +2 Gold] per [2] social policies adopted", "[+20]% [Gold] [in capital]"],
-	        "cities": ["Putat Jaya City", "Sawahan", "Petemon", "Pakis", "Banyu Urip", "Kupang Kraja", "Darmo", "Wonokromo", "Sawunggaling", "Ngagel Rejo", "Ngagel", "Jagir"]
+                "unique": ["[+30]% Production towards any buildings that already exist in the Capital", "[+1 Culture, +2 Gold, +1 Production] from every [Pasture]", "[+1 Faith, +4 Gold] from every [Mine]", "[+10]% Production when constructing [All] buildings [in all cities]", "[+2 Culture, +2 Gold] per [2] social policies adopted", "[+20]% [Gold] [in capital]"],
+	        "cities": ["Pilio City", "Wersa", "Frano", "Mirpo", "Qures", "Kali", "Cater", "Lomangan", "Iodan", "Prutor", "Youna", "Zaroone"]
 	}
 ]
