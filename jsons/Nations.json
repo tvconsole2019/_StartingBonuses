@@ -31,7 +31,7 @@
 	        "innerColor": [181, 12, 0],
 		
 		"uniqueName": "Land Value Program",
-                "unique": ["[+3 Production] from every [Pasture]","[+3 Food] from every [Plantation]", "[+2 Production, =1 Culture] from every [Plantation]"],
+                "unique": ["[+3 Production] from every [Pasture]", "[+3 Food] from every [Plantation]", "[+2 Production, =1 Culture] from every [Plantation]"],
 		
 	        "cities": ["Pilio City", "Wersa", "Frano", "Mirpo", "Qures", "Kali", "Cater", "Lomangan", "Iodan", "Prutor", "Youna", "Zaroone"]
 	}
