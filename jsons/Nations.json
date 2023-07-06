@@ -31,7 +31,7 @@
 	        "innerColor": [181, 12, 0],
 		
 		"uniqueName": "Land Value Program",
-                "unique": ["[+1 Food, +3 Production, +2 Gold] from every [Hill]","[+3 Food, +2 Production, +1 Culture] from every [Grassland]"],
+                "unique": ["[+1 Food, +3 Production, +2 Gold] from every [Plains]","[+3 Food, +2 Production, +1 Culture] from every [Grassland]","[+50]% [Gold] [in capital]"],
 		
 	        "cities": ["Pilio City", "Wersa", "Frano", "Mirpo", "Qures", "Kali", "Cater", "Lomangan", "Iodan", "Prutor", "Youna", "Zaroone"]
 	}
