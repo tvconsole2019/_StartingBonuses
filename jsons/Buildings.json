@@ -31,18 +31,15 @@
 		}]
 	},
 	{
-		"name": "Better Stable",
+		"name": "Better Stabld",
 		"uniqueTo": "Great Republic",
 		"replaces": "Stable",
 		"maintenance": 2,
 		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
 		"hurryCostModifier": 40,
 		"uniques": ["[+25]% Production when constructing [Mounted] units [in this city]",
-			"[+2 Production] from [Cattle] tiles [in this city]",
-			"[+2 Production] from [Horses] tiles [in this city]",
-			"[+2 Production] from [Sheep] tiles [in this city]",
-			"[+1 Gold] from [Horses] tiles [in this city]",
-		        "[+1 Gold] from [Sheep] tiles [in this city]"],
+			"[+2 Production] from [Pasture] tiles [in this city]",
+			"[+1 Gold] from [Pasture] tiles [in this city]"],
 		"requiredTech": "Horseback Riding"
 		"civilopediaText": [{
 			"text": "now 10% more civilized"
