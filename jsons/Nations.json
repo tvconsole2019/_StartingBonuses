@@ -30,7 +30,7 @@
 		"outerColor": [0, 21, 255],
 	        "innerColor": [181, 12, 0],
 		"uniqueName": "Land Value Program",
-                "unique": ["[+30]% Production towards any buildings that already exist in the Capital","[+1 Culture, +2 Gold, +1 Production] from every [Pasture]","[+1 Faith, +4 Gold] from every [Mine]","[+40]% [Gold] [in capital]"],
+                "unique": ["[+30]% Production towards any buildings that already exist in the Capital","[+1 Culture,+2 Gold,+1 Production] from every [Pasture]","[+1 Faith,+4 Gold] from every [Mine]","[+40]% [Gold] [in capital]","[+30]% [Production] [in capital]"],
 	        "cities": ["Pilio City", "Wersa", "Frano", "Mirpo", "Qures", "Kali", "Cater", "Lomangan", "Iodan", "Prutor", "Youna", "Zaroone"]
 	}
 ]
