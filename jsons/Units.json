@@ -1,9 +1,10 @@
 [
 	{
 	"name": "Great Networker",
-	
+	"replaces": "Great Merchant",
+	"uniqueTo": "Great Republic",
 	"unitType": "Civilian",
-	"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [50] Influence"],
+	"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [50] Influence",
 		"Great Person - [Gold]", "Unbuildable", "Uncapturable"
 	],
 	"movement": 3
