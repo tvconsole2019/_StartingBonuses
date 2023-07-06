@@ -31,17 +31,23 @@
 		}]
 	},
 	{
-		"name": "National Money Printer",
+		"name": "Better Stable",
 		"uniqueTo": "Great Republic",
-		"cost": 150,
-		"gold": 12,
-		"culture": 2,
-		"isNationalWonder": true,
-		"uniques": ["Requires a [Market] in all cities", "Cost increases by [40] per owned city", "[+1 Gold] from [Luxury resources] tiles [in this city]"],
-		"requiredTech": "Guilds",
+		"replaces": "Stable",
+		"maintenance": 2,
+		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
+		"hurryCostModifier": 40,
+		"uniques": ["[+25]% Production when constructing [Mounted] units [in this city]",
+			"[+2 Production] from [Cattle] tiles [in this city]",
+			"[+2 Production] from [Horses] tiles [in this city]",
+			"[+2 Production] from [Sheep] tiles [in this city]",
+			"[+1 Production] from [Grassland] tiles [in this city]",
+		        "[+1 Production] from [Hill] tiles [in this city]"],
+		"requiredTech": "Horseback Riding"
 		"civilopediaText": [{
-			"text": "print money and economy prevail apparently"
+			"text": "now 10% more civilized"
 		}]
+	},
 	},
 	{
 		"name": "Work Palace",
