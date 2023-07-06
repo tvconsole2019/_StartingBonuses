@@ -1,25 +1,103 @@
-[
+[ 
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"name": "Pray 4 Happy",
+		"replaces": "Shrine",
+		"uniqueTo": "Great Republic",
+		"cost": 35,
+		"happiness": 2,
+		"culture": 2,
+		"faith": 2,
+		"maintenance": 0,
+		"requiredTech": "Pottery",
+		"uniques": ["Hidden when religion is disabled"],
+		"civilopediaText": [{
+			"text": "A nice shrine for happi people :D"
+		}]
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"name": "Reading Room",
+		"uniqueTo": "Great Republic",
+		"replaces": "Library",
+		"hurryCostModifier": 25,
+		"happiness": -1,
+		"science": 2,
+		"maintenance": 2,
+		"uniques": ["[+1 Science] per [1] population [in this city]",
+			"[+2 Culture] per [2] population [in this city]"
+		],
+		"requiredTech": "Writing",
+		"civilopediaText": [{
+			"text": "a reading room for people to read and do stuff that actually contribute. unfortunately it was beside public toilet so it stink most of time"
+		}]
+	},
+	{
+		"name": "National Money Printer",
+		"uniqueTo": "Great Republic",
+		"cost": 150,
+		"gold": 12,
+		"culture": 2,
+		"isNationalWonder": true,
+		"uniques": ["Requires a [Market] in all cities", "Cost increases by [40] per owned city", "[+1 Gold] from [Luxury resources] tiles [in this city]"],
+		"requiredTech": "Guilds",
+		"civilopediaText": [{
+			"text": "print money and economy prevail apparently"
+		}]
+	},
+	{
+		"name": "Work Palace",
+		"uniqueTo": "Great Republic",
+		"replaces": "Workshop",
+		"uniqueTo": "Great Republic",
+		"maintenance": 1,
+		"production": 3,
+		"culture": 2,
+		"cost": 90,
+		"hurryCostModifier": 50,
+		"percentStatBonus": {
+			"production": 20
+		},
+		"requiredTech": "Metal Casting",
+		"civilopediaText": [{
+			"text": "a workplace where people disregard work safety for uh art?"
+		}]
+	},
+	{
+		"name": "Trade Market",
+		"uniqueTo": "Great Republic",
+		"replaces": "Market",
+		"gold": 4,
+		"culture": 1,
+		"specialistSlots": {
+			"Merchant": 2
+		},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {
+			"gold": 35
+		},
+		"requiredTech": "Currency",
+		"civilopediaText": [{
+			"text": "i sell, you buy, you buy"
+		}]
+	},
+	{
+		"name": "Drama Room",
+		"uniqueTo": "Great Republic",
+		"happiness": -1,
+		"culture": 5,
+		"gold": 4,
+		"specialistSlots": {
+			"Artist": 2
+		},
+		"requiredBuilding": "Monument",
+		"maintenance": 3,
+		"hurryCostModifier": 30,
+		"percentStatBonus": {
+			"culture": 5
+		},
+		"uniques": ["Destroyed when the city is captured"],
+		"requiredTech": "Drama and Poetry",
+		"civilopediaText": [{
+			"text": "a building where people pay money to debate and some people did not like that, okay?"
+		}]
 	}
 ]
