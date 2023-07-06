@@ -31,7 +31,7 @@
 	        "innerColor": [181, 12, 0],
 		
 		"uniqueName": "Mare Clausum",
-		"uniques": ["[+5 Gold] from every [Luxury resource]"],
+		"uniques": ["[+5 Gold] from every [Luxury resource]","[+100]% [Gold] [in capital]"],
 		
 	        "cities": ["Pilio City", "Wersa", "Frano", "Mirpo", "Qures", "Kali", "Cater", "Lomangan", "Iodan", "Prutor", "Youna", "Zaroone"]
 	}
