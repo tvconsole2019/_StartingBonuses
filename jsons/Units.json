@@ -1,17 +1,11 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
-	}
+	"name": "Great Networker",
+	"unitType": "Civilian",
+	"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [50] Influence",
+		"Can instantly construct a [Customs house] improvement <by consuming this unit>",
+		"Great Person - [Gold]", "Unbuildable", "Uncapturable"
+	],
+	"movement": 3
+        },
 ]
