@@ -1,37 +1,36 @@
 [
 	{
-	"name": "Great Republic",
-	"leaderName": "Ryan IV",
-	"adjective": ["Greatrepublics"],
-	"startBias": ["Coast", "Avoid [Tundra]"],
-	"preferredVictoryType": "Cultural",
+		"name": "Great Republic",
+		"leaderName": "Ryan IV",
+		"adjective": ["Greatrepublic"],
+		"startBias": ["Coast", "Avoid [Tundra]"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "sorry but i need more land for my people",
+		"attacked": "how dare you... oh well",
+		"defeated": "how embarrassing...",
+		"introduction": "hello. it appear that there people existing here",
+		
+		"neutralHello": "Hi",
+		"neutralLetsHearIt": ["Yeah?", "Alright lets see", "What i can help?"],
+		"neutralNo": ["There no value in here", "Im not accepting it", "Can you give me more for this?"],
+		"neutralYes": ["Alright i will accept it", "Very good trade yes?", "Hope this wil help!!"],
 
-	"startIntroPart1": "",
-	"startIntroPart2": "",
+		"hateHello": "Hm? you here",
+		"hateLetsHearIt": ["Alright what do you want", "Ok?", "You calling me for this?"],
+		"hateNo": ["No.", "There no absolute value!!", "Pardon me?"],
+		"hateYes": ["Your luck was on your side.", "That is good enough.", "Very well..."],
+		
+		"afterPeace": "Very well I will stop my aggression",
+		"tradeRequest": "Do this deal good for you?",
 
-	"declaringWar": "sorry but i need more land for my people",
-	"attacked": "how dare you. oh well",
-	"defeated": "how embarrassing...",
-	"introduction": "hello. it appear that there people existing here",
-
-	"neutralHello": "Hi",
-	"neutralLetsHearIt": ["Yeah?", "Alright lets see", "What i can help?"],
-	"neutralNo": ["There no value in here", "Im not accepting it", "Can you give me more for this?"],
-	"neutralYes": ["Alright i will accept it", "Very good trade yes?", "Hope this wil help!!"],
-
-	"hateHello": "Hm? you here",
-	"hateLetsHearIt": ["Speak up man", "Ok?", "You calling me for this?"],
-	"hateNo": ["No.", "There no absolute value!!", "Pardon me?"],
-	"hateYes": ["That is fine.", "That is good enough.", "Very well..."],
-
-	"afterPeace": "Very well I will stop my aggression",
-	"tradeRequest": "Do this trade good for you?",
-
-	"outerColor": [0, 21, 255],
-	"innerColor": [181, 12, 0],
-	"favoredReligion": "Islam",
-	"uniqueName": "Land Value Program",
-	"unique": ["[+30]% Production towards any buildings that already exist in the Capital", "[+2 Production] from every [Strategic resource]", "[+1 Culture, +2 Gold, +1 Production] from every [Pasture]", "[+1 Faith, +4 Gold] from every [Mine]", "[+10]% Production when constructing [All] buildings [in all cities]", "[Great Merchant] is earned [50]% faster", "[+2 Culture, +2 Gold] per [2] social policies adopted", "[+20]% [Gold] [in capital]"],
-	"cities": ["Putat Jaya City", "Sawahan", "Petemon", "Pakis", "Banyu Urip", "Kupang Kraja", "Darmo", "Wonokromo", "Sawunggaling", "Ngagel Rejo", "Ngagel", "Jagir"]
-        }
+		"outerColor": [0, 21, 255],
+	        "innerColor": [181, 12, 0],
+		"uniqueName": "Land Value Program",
+                "unique": ["[+30]% Production towards any buildings that already exist in the Capital", "[+2 Production] from every [Strategic resource]", "[+1 Culture, +2 Gold, +1 Production] from every [Pasture]", "[+1 Faith, +4 Gold] from every [Mine]", "[+10]% Production when constructing [All] buildings [in all cities]", "[Great Merchant] is earned [50]% faster", "[+2 Culture, +2 Gold] per [2] social policies adopted", "[+20]% [Gold] [in capital]"],
+	        "cities": ["Putat Jaya City", "Sawahan", "Petemon", "Pakis", "Banyu Urip", "Kupang Kraja", "Darmo", "Wonokromo", "Sawunggaling", "Ngagel Rejo", "Ngagel", "Jagir"]
+	}
 ]
