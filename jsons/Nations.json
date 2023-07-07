@@ -31,16 +31,7 @@
 	        "innerColor": [181, 12, 0],
 		
 		"uniqueName": "Great Planner",
-		"uniques": ["[+7 Gold] from every [Luxury resource]","[+75]% [Gold] [in all cities]",
-			    "[+2 Culture] from [Pasture] tiles [in all cities]",
-			    "[+3 Production] from [Pasture] tiles [in all cities]",
-		            "[+100]% Yield from every [Pasture]",
-		            "Starts with [Animal Husbandry]",
-			    "Receive free [Great Merchant] when you discover [Currency]",
-			    "All newly-trained [Military] units [in all cities] receive the [Blitz] promotion",
-			    "[+50]% [Gold] [in all cities]",,
-			    "[+2 Culture] per [2] social policies adopted",
-		            "Receive free [Worker] when you discover [Animal Husbandry]"],
+		"uniques": ["[+7 Gold] from every [Luxury resource]","[+75]% [Gold] [in all cities]","[+2 Culture] from [Pasture] tiles [in all cities]","[+3 Production] from [Pasture] tiles [in all cities]","[+100]% Yield from every [Pasture]","Starts with [Animal Husbandry]","Receive free [Great Merchant] when you discover [Currency]","All newly-trained [Military] units [in all cities] receive the [Blitz] promotion","[+50]% [Gold] [in all cities]","[+2 Culture] per [2] social policies adopted","Receive free [Worker] when you discover [Animal Husbandry]"],
 		 
 	        "cities": ["Great City", "Wersa", "Frano", "Mirpo", "Qures", "Kali", "Cater", "Lomangan", "Iodan", "Prutor", "Youna", "Zaroone"]
 	}
