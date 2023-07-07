@@ -1,6 +1,6 @@
 [ 
 	{
-		"name": "Pray 4 Happy",
+		"name": Meditation Room",",
 		"replaces": "Shrine",
 		"uniqueTo": "Great Republic",
 		"cost": 35,
@@ -11,7 +11,7 @@
 		"requiredTech": "Pottery",
 		"uniques": ["Hidden when religion is disabled"],
 		"civilopediaText": [{
-			"text": "A nice shrine for happi people :D"
+			"text": "popular on elderly"
 		}]
 	},
 	{
@@ -19,7 +19,6 @@
 		"uniqueTo": "Great Republic",
 		"replaces": "Library",
 		"hurryCostModifier": 25,
-		"happiness": -1,
 		"science": 2,
 		"maintenance": 2,
 		"uniques": ["[+1 Science] per [1] population [in this city]",
@@ -57,6 +56,9 @@
 		"hurryCostModifier": 50,
 		"percentStatBonus": {
 			"production": 20
+		},
+		"percentStatBonus": {
+			"culture": 10
 		},
 		"requiredTech": "Metal Casting",
 		"civilopediaText": [{
