@@ -30,7 +30,7 @@
 		}]
 	},
 	{
-		"name": "Better Stable",
+		"name": "Open Stable",
 		"uniqueTo": "Great Republic",
 		"replaces": "Stable",
 		"maintenance": 2,
