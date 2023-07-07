@@ -15,18 +15,18 @@
 		}]
 	},
 	{
-		"name": "Reading Room",
+		"name": "Irrigation",
+		"replaces": "Water Mill",
 		"uniqueTo": "Great Republic",
-		"replaces": "Library",
-		"hurryCostModifier": 25,
-		"science": 2,
-		"maintenance": 2,
-		"uniques": ["[+1 Science] per [1] population [in this city]",
-			"[+2 Culture] per [2] population [in this city]"
-		],
-		"requiredTech": "Writing",
+		"maintenance": 0,
+		"food": 4,
+		"production": 2,
+		"culture": 1,
+		"hurryCostModifier": 30,
+		"uniques": ["Must be on [River]", "[+2 Food] from [Pasture] tiles [in this city]", "[+1 Food] from [Farm] tiles [in this city]"], 
+		"requiredTech": "The Wheel"
 		"civilopediaText": [{
-			"text": "a reading room for people to read and do stuff that actually contribute. unfortunately it was beside public toilet so it stink most of time"
+			"text": "a improvised water mill that serve as drink for farm animal and animal itself"
 		}]
 	},
 	{
