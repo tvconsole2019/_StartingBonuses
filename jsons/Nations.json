@@ -30,9 +30,45 @@
 		"outerColor": [0, 21, 255],
 	        "innerColor": [181, 12, 0],
 		
-		"uniqueName": "Legendary Figure",
-		"uniques": ["[+5 Gold] from every [Luxury resource]","[+75]% [Gold] [in all cities]","[+50]% [Culture] [in all cities]","[+2 Gold] from all [Culture] buildings","[-25]% tile improvement construction time","[+2 Culture] from [Pasture] tiles [in all cities]","[+4 Production] from [Pasture] tiles [in all cities]","[+100]% Yield from every [Pasture]","Starts with [Animal Husbandry]","Receive free [Great Merchant] when you discover [Currency]","All newly-trained [Military] units [in all cities] receive the [Woodsman] promotion"],
+		"uniqueName": "Legend of The Past",
+		"uniques": ["[+5 Gold] from every [Luxury resource]","[+75]% [Gold] [in all cities]","[+50]% [Culture] [in all cities]","[+2 Gold] from all [Culture] buildings","[-25]% tile improvement construction time","[-20]% Culture cost of adopting new Policies","[+2 Culture] from [Pasture] tiles [in all cities]","[+4 Production] from [Pasture] tiles [in all cities]","[+100]% Yield from every [Pasture]","Starts with [Animal Husbandry]","Receive free [Great Merchant] when you discover [Currency]"],
 		 
 	        "cities": ["Great City", "Wersa", "Frano", "Mirpo", "Qures", "Kali", "Cater", "Lomangan", "Iodan", "Prutor", "Youna", "Zaroone"]
 	}
+	{
+		"name": "Seas Freyam",
+		"leaderName": "Hontana",
+		"adjective": ["Freyaman"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "I had enough!! better to prepare war...",
+		"attacked": "My mighty nation will be unbreakable unlike you",
+		"defeated": "I was wrong... maybe i should done better",
+		"introduction": "Hi Stranger, Do you wanna come to our local seafood cuisine?",
+		
+		"neutralHello": "Whats Up?",
+		"neutralLetsHearIt": "Ok, you want to offer something?",
+		"neutralNo": ["Nah", "You need better offer my friend"],
+		"neutralYes": "Okay i accept it, it better for our sides and yours",
+
+		"hateHello": "...",
+		"hateLetsHearIt": ["Huh?", "You better not waste my time"],
+		"hateNo": "No, even our people wont accept that",
+		"hateYes": ["I guess this are decent one", "Very well..."],
+		
+		"afterPeace": "Alright we accept this, my people are tired anyway",
+		"tradeRequest": "Hi, this deal is very exclusive to you. would you accept this?",
+
+		"outerColor": [0, 21, 255],
+	        "innerColor": [181, 12, 0],
+		
+		"uniqueName": "Seas Riches",
+		"uniques": ["[+5 Gold] from every [Luxury resource]","[+75]% [Gold] [in all cities]","[+50]% [Culture] [in all cities]","[+2 Gold] from all [Culture] buildings","[-25]% tile improvement construction time","[-20]% Culture cost of adopting new Policies","[+2 Culture] from [Pasture] tiles [in all cities]","[+4 Production] from [Pasture] tiles [in all cities]","[+100]% Yield from every [Pasture]","Starts with [Animal Husbandry]","Receive free [Great Merchant] when you discover [Currency]"],
+		 
+	        "cities": ["Great City", "Wersa", "Frano", "Mirpo", "Qures", "Kali", "Cater", "Lomangan", "Iodan", "Prutor", "Youna", "Zaroone"]
+	},
 ]
