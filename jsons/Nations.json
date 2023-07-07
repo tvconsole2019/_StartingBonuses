@@ -1,9 +1,9 @@
 [
 	{
-		"name": "Great Republic",
-		"leaderName": "Ryan V",
-		"adjective": ["Greatrepublic"],
-		"startBias": ["Coast", "Avoid [Tundra]"],
+		"name": "Renadan Una",
+		"leaderName": "Rena V",
+		"adjective": ["Renadan"],
+		"startBias": ["River", "Coast", "Avoid [Tundra]"],
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "",
@@ -30,8 +30,8 @@
 		"outerColor": [0, 21, 255],
 	        "innerColor": [181, 12, 0],
 		
-		"uniqueName": "Great Planner",
-		"uniques": ["[+7 Gold] from every [Luxury resource]","[+75]% [Gold] [in all cities]","[+50]% [Culture] [in all cities]","[+2 Culture] per [2] social policies adopted","[+2 Culture] from [Pasture] tiles [in all cities]","[+3 Production] from [Pasture] tiles [in all cities]","[+100]% Yield from every [Pasture]","Starts with [Animal Husbandry]","Receive free [Great Merchant] when you discover [Currency]","Free [Worker] appears <upon founding a city>","All newly-trained [Military] units [in all cities] receive the [Blitz] promotion"],
+		"uniqueName": "legendary Figure",
+		"uniques": ["[+7 Gold] from every [Luxury resource]","[+75]% [Gold] [in all cities]","[+50]% [Culture] [in all cities]","[+2 Gold] from all [Culture] buildings","[-30]% tile improvement construction time","[+2 Culture] from [Pasture] tiles [in all cities]","[+3 Production] from [Pasture] tiles [in all cities]","[+100]% Yield from every [Pasture]","Starts with [Animal Husbandry]","Receive free [Great Merchant] when you discover [Currency]","All newly-trained [Military] units [in all cities] receive the [Rejuvenation] promotion"],
 		 
 	        "cities": ["Great City", "Wersa", "Frano", "Mirpo", "Qures", "Kali", "Cater", "Lomangan", "Iodan", "Prutor", "Youna", "Zaroone"]
 	}
