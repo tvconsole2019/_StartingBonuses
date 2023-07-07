@@ -9,10 +9,10 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 		
-		"declaringWar": "sorry but i need more land for my people",
+		"declaringWar": "sorry but i need more land for myself",
 		"attacked": "how dare you... oh well",
 		"defeated": "how embarrassing...",
-		"introduction": "hello. it appear that there people existing here",
+		"introduction": "Hello Friend. It appear that there people existing here",
 		
 		"neutralHello": "Hi",
 		"neutralLetsHearIt": ["Yeah?", "Alright lets see", "What i can help?"],
@@ -21,7 +21,7 @@
 
 		"hateHello": "Hm? you here",
 		"hateLetsHearIt": ["Alright what do you want", "Ok?", "You calling me for this?"],
-		"hateNo": ["No.", "There no absolute value!!", "Pardon me?"],
+		"hateNo": ["No.", "No way i would accept that!!", "Pardon me?"],
 		"hateYes": ["Your luck was on your side.", "That is good enough.", "Very well..."],
 		
 		"afterPeace": "Very well I will stop my aggression",
@@ -37,7 +37,9 @@
 		            "[+100]% Yield from every [Pasture]",
 		            "Starts with [Animal Husbandry]",
 			    "Receive free [Great Merchant] when you discover [Currency]",
-			    "All newly-trained [Melee] units [in all cities] receive the [Shock I] promotion",
+			    "All newly-trained [Military] units [in all cities] receive the [Blitz] promotion",
+			    "[+50]% [Gold] [in all cities]",,
+			    "[+2 Culture] per [2] social policies adopted",
 		            "Receive free [Worker] when you discover [Animal Husbandry]"],
 		 
 	        "cities": ["Great City", "Wersa", "Frano", "Mirpo", "Qures", "Kali", "Cater", "Lomangan", "Iodan", "Prutor", "Youna", "Zaroone"]
