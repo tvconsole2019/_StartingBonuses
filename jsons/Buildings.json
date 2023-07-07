@@ -1,6 +1,6 @@
 [ 
 	{
-		"name": Meditation Room",",
+		"name": "Meditation Room",
 		"replaces": "Shrine",
 		"uniqueTo": "Great Republic",
 		"cost": 35,
