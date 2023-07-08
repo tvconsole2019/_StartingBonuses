@@ -40,7 +40,7 @@
 		"leaderName": "Hontana",
 		"adjective": ["Freyaman"],
 		"startBias": ["Coast"],
-		"preferredVictoryType": "Domination",
+		"preferredVictoryType": "Neutral",
 		
 		"startIntroPart1": "",
 		"startIntroPart2": "",
@@ -63,12 +63,12 @@
 		"afterPeace": "Alright we accept this, my people are tired anyway",
 		"tradeRequest": "Hi, this deal is very exclusive to you. would you accept this?",
 
-		"outerColor": [0, 21, 255],
-	        "innerColor": [181, 12, 0],
+		"outerColor": [74, 65, 250],
+	        "innerColor": [33, 149, 191],
 		
 		"uniqueName": "Seas Riches",
-		"uniques": ["[+5 Gold] from every [Luxury resource]","[+75]% [Gold] [in all cities]","[+50]% [Culture] [in all cities]","[+2 Gold] from all [Culture] buildings","[-25]% tile improvement construction time","[-20]% Culture cost of adopting new Policies","[+2 Culture] from [Pasture] tiles [in all cities]","[+4 Production] from [Pasture] tiles [in all cities]","[+100]% Yield from every [Pasture]","Starts with [Animal Husbandry]","Receive free [Great Merchant] when you discover [Currency]"],
+		"uniques": ["[+1 Food, +2 Production] from [Fishing Boats] tiles","[+50]% [Production] from every [Water resource]","[+2 Food] from all [Production] buildings","[+1 Production, 1+ Food] from every [Coast]","[+2 Production] from every [Ocean]","[+3 Food] from every [Luxury resource]","Starts with [Sailing]"],
 		 
-	        "cities": ["Great City", "Wersa", "Frano", "Mirpo", "Qures", "Kali", "Cater", "Lomangan", "Iodan", "Prutor", "Youna", "Zaroone"]
+	        "cities": ["Gardan Homeland", "Taur", "Saidan", "Kamaran", "Peril", "Nasan", "Kansan", "Violan", "Cliffside", "Huran", "Canyan", "Fery"]
 	},
 ]
