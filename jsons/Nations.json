@@ -35,42 +35,5 @@
 		 
 	        "cities": ["Great City", "Wersa", "Frano", "Mirpo", "Qures", "Kali", "Cater", "Lomangan", "Iodan", "Prutor", "Youna", "Zaroone"]
 	},
-]	
-	
-	//{
-		"name": "Seas Freyam",
-		"leaderName": "Hontana",
-		"adjective": ["Freyaman"],
-		"startBias": ["Coast"],
-		"preferredVictoryType": "Neutral",
-		
-		"startIntroPart1": "",
-		"startIntroPart2": "",
-		
-		"declaringWar": "I had enough!! better to prepare war...",
-		"attacked": "My mighty nation will be unbreakable unlike you",
-		"defeated": "I was wrong... maybe i should done better",
-		"introduction": "Hi Stranger, Do you wanna come to our local seafood cuisine?",
-		
-		"neutralHello": "Whats Up?",
-		"neutralLetsHearIt": "Ok, you want to offer something?",
-		"neutralNo": ["Nah", "You need better offer my friend"],
-		"neutralYes": "Okay i accept it, it better for our sides and yours",
-
-		"hateHello": "...",
-		"hateLetsHearIt": ["Huh?", "You better not waste my time"],
-		"hateNo": "No, even our people wont accept that",
-		"hateYes": ["I guess this are decent one", "Very well..."],
-		
-		"afterPeace": "Alright we accept this, my people are tired anyway",
-		"tradeRequest": "Hi, this deal is very exclusive to you. would you accept this?",
-
-		"outerColor": [74, 65, 250],
-	        "innerColor": [33, 149, 191],
-		
-		"uniqueName": "Seas Riches",
-		"uniques": ["[+1 Food, +2 Production] from [Fishing Boats] tiles","[+50]% [Production] from every [Water resource]","[+2 Food] from all [Production] buildings","[+1 Production, 1+ Food] from every [Coast]","[+2 Production] from every [Ocean]","[+3 Food] from every [Luxury resource]","Starts with [Sailing]"],
-		 
-	        "cities": ["Gardan Homeland", "Taur", "Saidan", "Kamaran", "Peril", "Nasan", "Kansan", "Violan", "Cliffside", "Huran", "Canyan", "Fery"]
-	},
+]
 
