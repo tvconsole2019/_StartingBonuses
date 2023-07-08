@@ -15,7 +15,7 @@
 		}]
 	},
 	{
-		"name": "Irrigation",
+		"name": "Water Pumper",
 		"replaces": "Water Mill",
 		"uniqueTo": "Great Republic",
 		"maintenance": 0,
@@ -23,10 +23,10 @@
 		"production": 2,
 		"culture": 1,
 		"hurryCostModifier": 30,
-		"uniques": ["Must be on [River]", "[+2 Food] from [Pasture] tiles [in this city]", "[+1 Food] from [Farm] tiles [in this city]"], 
+		"uniques": ["[+1 Production] from [Pasture] tiles [in this city]","[+2 Food] from [Pasture] tiles [in this city]", "[+1 Food] from [Farm] tiles [in this city]"], 
 		"requiredTech": "The Wheel"
 		"civilopediaText": [{
-			"text": "a improvised water mill that serve as drink for farm animal and animal itself"
+			"text": "a building that pump water from the ground to irrigate the land"
 		}]
 	},
 	{
