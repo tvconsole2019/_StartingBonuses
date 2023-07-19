@@ -31,6 +31,7 @@
 	        "innerColor": [181, 12, 0],
 		
 		"uniqueName": "Combined Power",
+		"uniqueText": "all uniques from G&K, BNW, AC, and MC. good luck try to beat this near impossible civ...",
 		"uniques": ["Receive free [Great Scientist] when you discover [Writing]", "[Great Scientist] is earned [50]% faster",
 			"[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory",
 			"Great General provides double combat bonus", "[Great General] is earned [50]% faster",
@@ -69,7 +70,7 @@
 		        "[+2 Science] [in capital]", "[Land] units gain the [Besiege] promotion", "[+1 Food, +1 Faith] from every [Pasture]", "[+1 Faith] per [4] population [in all cities]",
 		        "Starts with [Sailing]", "[+1 Gold] from every [Fishing Boats]", "[+50]% Production when constructing [Work Boats] units [in all cities]", "Iron and Horses tiles yield additional 1 [Gold] and 1 [Production]", "Receive +10% [Production] bonus when constructing military units",
 		        "Double quantity of [Horses] produced", "[Mounted] units gain the [Ignore terrain cost] promotion", "[+1 Food, +1 Culture, +1 Production] from every [Mountain]", "Earn [75]% of killed [Land] unit's [Strength] as [Gold]",
-		        "May buy [National Wonder] buildings with [Faith] for [1] times their normal Production cost", "Double quantity of [Incense] produced", "[+1 Science] from every [Iron]",
+		        "May buy [National Wonder] buildings with [Faith] for [1] times their normal Production cost", "[+1 Science] from every [Iron]",
 		        "Double quantity of [Incense] produced", "[+15]% Strength <within [1] tiles of a [Desert]>", "[Military] units gain the [March] promotion", "[+25]% Production when constructing [Military] units [in capital]", "Receive free [Great General] when you discover [Bronze Working]", "Receive free [Great General] when you discover [Steel]",
 		        "[+1 Food] from every [Horses]", "Starts with [Archery]", "[+15]% [Science] [in all cities] <during a Golden Age>", "[+20]% Production when constructing [Culture] buildings [in all cities]", "[+50]% Production when constructing [Walls] buildings [in all cities]",
 		        "[1] Movement point cost to disembark <for [All] units>","[1] Movement point cost to embark <for [All] units>","[+1 Culture] from every [Trading post]", "[+25]% Strength <for [Wounded] units>", "[+1 Happiness] from every [Barracks]", "[+1 Food] from every [Plantation]",
