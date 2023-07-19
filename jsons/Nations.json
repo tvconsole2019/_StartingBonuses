@@ -31,7 +31,6 @@
 	        "innerColor": [181, 12, 0],
 		
 		"uniqueName": "Combined Power",
-		"uniqueText": "include all unique from G&K, BNW, AC, and MC, its trully very overpowered...",
 		"uniques": ["Receive free [Great Scientist] when you discover [Writing]", "[Great Scientist] is earned [50]% faster",
 			"[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory",
 			"Great General provides double combat bonus", "[Great General] is earned [50]% faster",
