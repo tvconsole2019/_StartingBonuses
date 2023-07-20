@@ -10,21 +10,20 @@
 	"movement": 3
         },
 	{
-		"name": "City Demolisher",
-		"replaces": "Catapult",
+		"name": "Redana Spearman",
+		"replaces": "Spearman",
 		"uniqueTo": "Great Republic",
-		"unitType": "Siege",
+		"unitType": "Sword",
 		"movement": 3,
 		"strength": 10,
-		"rangedStrength": 12,
-		"cost": 60,
-		"requiredTech": "Mathematics",
-		"obsoleteTech": "Chemistry",
-		"upgradesTo": "Cannon",
-		"uniques": ["[+250]% Strength <vs cities>", "Must set up to ranged attack", 
-			    "[+10]% Strength <during the [Classical era]>",
-		            "[+50]% Strength <during the [Medieval era]>"],
+		"cost": 46,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Metallurgy",
+		"upgradesTo": "Lancer",
+		"uniques": ["[+200]% Strength <vs cities>", "[+50]% Strength <vs [Mounted] units>", 
+			    "[+25]% Strength <during the [Classical era]>",
+		            "[+75]% Strength <during the [Medieval era]>"],
 		"hurryCostModifier": 20,
-		"attackSound": "throw"
+		"attackSound": "metalhit"
 	}
 ]
