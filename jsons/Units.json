@@ -8,22 +8,5 @@
 		"Great Person - [Gold]", "Unbuildable", "Uncapturable"
 	],
 	"movement": 3
-        },
-	{
-		"name": "Redana Spearman",
-		"replaces": "Spearman",
-		"uniqueTo": "Great Republic",
-		"unitType": "Sword",
-		"movement": 3,
-		"strength": 10,
-		"cost": 46,
-		"requiredTech": "Bronze Working",
-		"obsoleteTech": "Metallurgy",
-		"upgradesTo": "Lancer",
-		"uniques": ["[+200]% Strength <vs cities>", "[+50]% Strength <vs [Mounted] units>", 
-			    "[+25]% Strength <during the [Classical era]>",
-		            "[+75]% Strength <during the [Medieval era]>"],
-		"hurryCostModifier": 20,
-		"attackSound": "metalhit"
-	}
+        }
 ]
