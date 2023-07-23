@@ -1,17 +1,8 @@
 [ 
 	{
-		"name": "Meditation Room",
-		"replaces": "Shrine",
-		"uniqueTo": "Great Republic",
-		"cost": 35,
-		"happiness": 2,
-		"culture": 2,
-		"faith": 2,
-		"maintenance": 0,
-		"requiredTech": "Pottery",
-		"uniques": ["Hidden when religion is disabled"],
-		"civilopediaText": [{
-			"text": "popular on elderly"
-		}]
+                "name": "Granted Power (Ryan IV)",
+                "uniqueTo": "Austria",
+                "cost": 1,
+		"uniques": ["Unsellable",
 	}
 ]
