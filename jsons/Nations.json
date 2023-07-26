@@ -89,7 +89,7 @@
 	        "cities": ["Great City", "Wersa", "Frano", "Mirpo", "Qures", "Kali", "Cater", "Lomangan", "Iodan", "Prutor", "Youna", "Zaroone", "Tenyu", "Kirluna", "Wesdan", "Porluna", "Gunada", "Lakes Velocity", "Hope City", "Xen", "Brunai", "Jarna", "Uwa", "Kana"]
 	},
 	{
-		"name": "Al Karama",
+		"name": "Al-Karama",
 		"leaderName": "Queen Amina al-Qadir",
 		"adjective": ["Honorable"],
 		"startBias": ["Desert", "Avoid [Tundra]"],
