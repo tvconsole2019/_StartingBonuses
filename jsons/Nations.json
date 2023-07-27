@@ -112,7 +112,7 @@
 	        "innerColor": [82, 247, 95],
 		
 		"uniqueName": "Cultured Tradition",
-		"uniques": ["+1 Culture] from [Desert] tiles without [Flood plains] [in all cities]", "[+1 Food] from [Flood plains] [in all cities]", "[+1 Culture] from [Flood plains] [in all cities] <after discovering [Civil Service]>"],
+		"uniques": ["[+1 Culture] from [Desert] tiles without [Flood plains] [in all cities]", "[+1 Food] from [Flood plains] [in all cities]", "[+1 Culture] from [Flood plains] [in all cities] <after discovering [Civil Service]>"],
 		 
 	        "cities": ["Serabia", "Qurumyah", "Ishtara", "Zafirah", "Albarqah", "Ghadiriyya", "Marzuk", "Tazmira", "Basalah", "Hadirat", "Qaherun", "Arzakh", "Shamadyr", "Yaquta", "Qadimiyah", "Hikmatpur", "Durarad", "Surdara", "Zanqari", "Rayhaniyya"]
 	},
