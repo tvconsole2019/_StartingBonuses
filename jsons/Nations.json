@@ -31,6 +31,7 @@
 	        "innerColor": [181, 12, 0],
 		
 		"uniqueName": "Combined Power",
+		"uniqueText": "every uniques from BNW, G&K, Ancient Civ, Medieval Civ, Latin Civ, Good Luck",
 		"uniques": ["Receive free [Great Scientist] when you discover [Writing]", "[Great Scientist] is earned [50]% faster",
 			"[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory",
 			"Great General provides double combat bonus", "[Great General] is earned [50]% faster",
@@ -51,7 +52,7 @@
 			"Enables embarkation for land units <starting from the [Ancient era]>", "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>", "[+1] Sight <for [Embarked] units>",
 			"[+50]% [Food] from City-States","[+50]% [Culture] from City-States","[+50]% [Faith] from City-States","Military Units gifted from City-States start with [+10] XP",
 			"100 Gold for discovering a Natural Wonder (bonus enhanced to 500 Gold if first to discover it)","[+1 Happiness] for every known Natural Wonder", "[+100]% Yield from every [Natural Wonder]",
-			"Receive triple Gold from Barbarian encampments and pillaging Cities", "Defense bonus when embarked <for [All] units>", "[{Military} {Land}] units gain the [Amphibious] promotion",
+			"Defense bonus when embarked <for [All] units>", "[{Military} {Land}] units gain the [Amphibious] promotion",
 			"+30% Strength when fighting City-State units and cities", "[+1] Movement <for [Mounted] units>",
 			"Earn [100]% of killed [Military] unit's [Strength] as [Culture]",
 			"Units ignore terrain costs when moving into any tile with Hills", "[-50]% maintenance on road & railroads", "No Maintenance costs for improvements in [Hill] tiles",
@@ -68,7 +69,7 @@
 		        "[+30]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>", "[-25]% Culture cost of natural border growth [in all cities]", "[+4 Gold] from every [Luxury resource]",
 		        "[+2 Science] [in capital]", "[Land] units gain the [Besiege] promotion", "[+1 Food, +1 Faith] from every [Pasture]", "[+1 Faith] per [4] population [in all cities]",
 		        "Starts with [Sailing]", "[+2 Gold] from every [Fishing Boats]", "[+50]% Production when constructing [Work Boats] units [in all cities]", "[+10]% Production when constructing [Military] units [in all cities]", "[+1 Gold] from every [Horses]", "[+1 Production] from every [Horses]", "[+1 Gold] from every [Iron]", "[+1 Production] from every [Iron]",
-		        "Double quantity of [Horses] produced", "[Mounted] units gain the [Ignore terrain cost] promotion", "[+1 Food, +1 Culture, +1 Production] from every [Mountain]", "Earn [75]% of killed [Land] unit's [Strength] as [Gold]",
+		        "[Mounted] units gain the [Ignore terrain cost] promotion", "[+1 Food, +1 Culture, +1 Production] from every [Mountain]", "Earn [75]% of killed [Land] unit's [Strength] as [Gold]",
 		        "May buy [National Wonder] buildings with [Faith] for [1] times their normal Production cost", "[+1 Science] from every [Iron]",
 		        "Double quantity of [Incense] produced", "[+15]% Strength <within [1] tiles of a [Desert]>", "[Military] units gain the [March] promotion", "[+25]% Production when constructing [Military] units [in capital]", "Receive free [Great General] when you discover [Bronze Working]", "Receive free [Great General] when you discover [Steel]",
 		        "[+1 Food] from every [Horses]", "Starts with [Archery]", "[+15]% [Science] [in all cities] <during a Golden Age>", "[+20]% Production when constructing [Culture] buildings [in all cities]", "[+50]% Production when constructing [Walls] buildings [in all cities]",
@@ -83,7 +84,7 @@
 		        "[+20]% Strength <vs [Barbarian] units>", "Earn [15]% of killed [Barbarian] unit's [Strength] as [Gold]", "[+1 Culture, +1 Food] from every [Trading post] <while the empire is happy>", "[+20]% Strength <for [{Military} {Land}] units> <when fighting in [Friendly Land] tiles> <when below [35] HP>",
 		        "[+1 Gold] from every [Great Improvement]","[+1 Gold] from every [Fishing Boats]", "[+1 Production] from every specialist [in all cities]", "[+15]% Production when constructing [{Military} {Land}] units [in all cities] <when at war>",
 		        "[+2 Food] from every [Plantation]", "[+1 Production] from [All] tiles [in all cities] <with [1] to [6] neighboring [Oil] tiles>", "[+1 Gold] from [Road] tiles [in all cities] <with [1] to [6] neighboring [Oil] tiles>", "[+2 Gold, +2 Production] from every [Oil]",
-		        "[Land] units gain the [Woodsman] promotion", "[+1 Production] from [All] tiles [in all cities]", "[+1 Food] from [All] tiles [in all cities]", "[+1 Culture] from [All] tiles [in all cities]", "[-70]% Natural religion spread [in all cities]"]
+		        "[Land] units gain the [Woodsman] promotion", "[+1 Production] from [All] tiles [in all cities]", "[+1 Food] from [All] tiles [in all cities]", "[+1 Culture] from [All] tiles [in all cities]", "[+1 Science] from [All] tiles [in all cities]", "[-70]% Natural religion spread [in all cities]", "Upon capturing a city, receive [3] times its [Gold] production as [Gold] immediately"]
 		 
 	        "cities": ["Great City", "Wersa", "Frano", "Mirpo", "Qures", "Kali", "Cater", "Lomangan", "Iodan", "Prutor", "Youna", "Zaroone", "Tenyu", "Kirluna", "Wesdan", "Porluna", "Gunada", "Lakes Velocity", "Hope City", "Xen", "Brunai", "Jarna", "Uwa", "Kana"]
 	},
