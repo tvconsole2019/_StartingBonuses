@@ -31,7 +31,6 @@
 	        "innerColor": [181, 12, 0],
 		
 		"uniqueName": "Combined Power",
-		"uniqueText": "all uniques from G&K, BNW, Ancient Civ, Medieval Civ and Latin Civ with slight adjustment. good luck try to beat this near impossible civ...",
 		"uniques": ["Receive free [Great Scientist] when you discover [Writing]", "[Great Scientist] is earned [50]% faster",
 			"[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory",
 			"Great General provides double combat bonus", "[Great General] is earned [50]% faster",
