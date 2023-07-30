@@ -258,8 +258,8 @@
 		"cost": 767,
 		"maintenance": 2,
 		"uniqueTo": "Great Republic",
-		"uniques": ["[+1 Production] from [Plantation] tiles [in all cities]","[+1 Production, +1 Culture, +1 Gold] from [Coffee Hacienda ] tiles [in all cities]",
-			"Provides [2] [Coffee]","Provides [2] [Cocoa]",
+		"uniques": ["[+1 Production] from [Plantation] tiles [in all cities]","[+1 Production, +1 Culture, +1 Gold] from [Coffee] tiles [in all cities]",
+			"Provides [4] [Coffee]",
 			"[-3 Happiness]","Destroyed when the city is captured"],
     },
 	{ 
