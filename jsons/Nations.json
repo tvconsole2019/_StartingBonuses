@@ -52,7 +52,7 @@
 			"Enables embarkation for land units <starting from the [Ancient era]>", "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>", "[+1] Sight <for [Embarked] units>",
 			"[+50]% [Food] from City-States","[+50]% [Culture] from City-States","[+50]% [Faith] from City-States","Military Units gifted from City-States start with [+10] XP",
 			"100 Gold for discovering a Natural Wonder (bonus enhanced to 500 Gold if first to discover it)","[+1 Happiness] for every known Natural Wonder", "[+100]% Yield from every [Natural Wonder]",
-			"Defense bonus when embarked <for [All] units>", "[{Military} {Land}] units gain the [Amphibious] promotion",
+			"Receive triple Gold from Barbarian encampments and pillaging Cities", "Defense bonus when embarked <for [All] units>", "[{Military} {Land}] units gain the [Amphibious] promotion",
 			"+30% Strength when fighting City-State units and cities", "[+1] Movement <for [Mounted] units>",
 			"Earn [100]% of killed [Military] unit's [Strength] as [Culture]",
 			"Units ignore terrain costs when moving into any tile with Hills", "[-50]% maintenance on road & railroads", "No Maintenance costs for improvements in [Hill] tiles",
@@ -84,7 +84,7 @@
 		        "[+20]% Strength <vs [Barbarian] units>", "Earn [15]% of killed [Barbarian] unit's [Strength] as [Gold]", "[+1 Culture, +1 Food] from every [Trading post] <while the empire is happy>", "[+20]% Strength <for [{Military} {Land}] units> <when fighting in [Friendly Land] tiles> <when below [35] HP>",
 		        "[+1 Gold] from every [Great Improvement]","[+1 Gold] from every [Fishing Boats]", "[+1 Production] from every specialist [in all cities]", "[+15]% Production when constructing [{Military} {Land}] units [in all cities] <when at war>",
 		        "[+2 Food] from every [Plantation]", "[+1 Production] from [All] tiles [in all cities] <with [1] to [6] neighboring [Oil] tiles>", "[+1 Gold] from [Road] tiles [in all cities] <with [1] to [6] neighboring [Oil] tiles>", "[+2 Gold, +2 Production] from every [Oil]",
-		        "[Land] units gain the [Woodsman] promotion", "[+1 Production] from [All] tiles [in all cities]", "[+1 Food] from [All] tiles [in all cities]", "[+1 Culture] from [All] tiles [in all cities]", "[+1 Science] from [All] tiles [in all cities]", "[-70]% Natural religion spread [in all cities]", "Upon capturing a city, receive [3] times its [Gold] production as [Gold] immediately"]
+		        "[Land] units gain the [Woodsman] promotion", "[-70]% Natural religion spread [in all cities]", "Upon capturing a city, receive [3] times its [Gold] production as [Gold] immediately"]
 		 
 	        "cities": ["Great City", "Wersa", "Frano", "Mirpo", "Qures", "Kali", "Cater", "Lomangan", "Iodan", "Prutor", "Youna", "Zaroone", "Tenyu", "Kirluna", "Wesdan", "Porluna", "Gunada", "Lakes Velocity", "Hope City", "Xen", "Brunai", "Jarna", "Uwa", "Kana"]
 	},
