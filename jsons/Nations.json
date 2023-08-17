@@ -88,33 +88,5 @@
 		 
 	        "cities": ["Great City", "Wersa", "Frano", "Mirpo", "Qures", "Kali", "Cater", "Lomangan", "Iodan", "Prutor", "Youna", "Zaroone", "Tenyu", "Kirluna", "Wesdan", "Porluna", "Gunada", "Lakes Velocity", "Hope City", "Xen", "Brunai", "Jarna", "Uwa", "Kana"]
 	},
-	{
-		"name": "Al-Karama",
-		"leaderName": "Queen Amina al-Qadir",
-		"adjective": ["Honorable"],
-		"startBias": ["Desert", "Avoid [Tundra]"],
-		"preferredVictoryType": "Cultural",
-		
-		"startIntroPart1": "Welcome to the majestic land of Al-Karama, a realm where ancient traditions blend harmoniously with modern aspirations. Nestled in the heart of the Middle East, this fictional nation stands as a beacon of honor and dignity, drawing inspiration from its rich history and embracing the future with unwavering resolve.",
-		"startIntroPart2": "",
-		
-		"declaringWar": "You existence has provoked us, be prepared!!!",
-		"attacked": "You fool, you think you would win?!",
-		"defeated": "I shall not underestimate your capabilities",
-		"introduction": "Hi stranger, shall you visit our palace?",
-		
-		"neutralHello": "Hi",
-		"hateHello": "Huh?",
-		"afterPeace": "Very well we accept this peace deal",
-		"tradeRequest": "This trade came for you!!",
-
-		"outerColor": [14, 130, 45],
-	        "innerColor": [82, 247, 95],
-		
-		"uniqueName": "Cultured Tradition",
-		"uniques": ["[+1 Culture] from [Desert] tiles without [Flood plains] [in all cities]", "[+1 Food] from [Flood plains] [in all cities]", "[+1 Culture] from [Flood plains] [in all cities] <after discovering [Civil Service]>"],
-		 
-	        "cities": ["Serabia", "Qurumyah", "Ishtara", "Zafirah", "Albarqah", "Ghadiriyya", "Marzuk", "Tazmira", "Basalah", "Hadirat", "Qaherun", "Arzakh", "Shamadyr", "Yaquta", "Qadimiyah", "Hikmatpur", "Durarad", "Surdara", "Zanqari", "Rayhaniyya"]
-	},
 ]
 
