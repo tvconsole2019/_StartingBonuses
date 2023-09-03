@@ -4,9 +4,9 @@
 	"replaces": "Great Merchant",
 	"uniqueTo": "Great Republic",
 	"unitType": "Civilian",
-	"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [45] Influence",
-		"Great Person - [Gold]", "Unbuildable", "Uncapturable"
+	"movement": 2,
+	"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [90] Influence",
+		"Can instantly construct a [Customs house] improvement <by consuming this unit>", "Double movement in [Coast]", "Great Person - [Gold]", "Unbuildable", "Uncapturable"
 	],
-	"movement": 3
         }
 ]
