@@ -1,4 +1,14 @@
 [
+	{
+		"name": "Great National Epic",
+		"replaces": "National Epic",
+		"uniqueTo": "Great Republic",
+		"cost": 125,
+		"culture": 1,
+		"isNationalWonder": true,
+		"uniques": ["Requires a [Monument] in all cities", "[+25]% Great Person generation [in this city]", "Cost increases by [30] per owned city", "[+1 Food, +2 Faith] from [Academy] tiles [in this city]"],
+		"requiredTech": "Writing"
+	},
    	{
 		"name": "Great Monument",
 		"replaces": "Monument",
@@ -16,10 +26,22 @@
 		"uniqueTo": "Great Republic",
 		"faith": 2,
 		"science": 2,
+		"happiness": 1,
 		"cost": 40,
 		"maintenance": 1,
 		"requiredTech": "Pottery",
-		"uniques": ["Hidden when religion is disabled"]
+		"uniques": ["Hidden when religion is disabled", "[+20]% Production when constructing [Military] units [in this city] <before the [Medieval era]>"]
+	},
+	{
+		"name": "Great Saloon",
+		"replaces": "Circus",
+		"uniqueTo": "Great Republic",
+		"requiredNearbyImprovedResources": ["Horses", "Cattle"],
+		"happiness": 2,
+		"gold": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["Available with Horses, Cattle"],
+		"requiredTech": "Trapping"
 	},
 	{
     	        "name": "Great Library",
@@ -37,12 +59,27 @@
 		"cost": 75,
 		"food": 2,
 		"production": 1,
-		"uniques": ["[+2 Food] from [Lakes] tiles [in this city]",
+		"uniques": ["[+2 Food] from [Lakes] tiles [in this city]", "[+1 Food] from [Flood plains] tiles [in this city]",
 			"Must be next to [Fresh water]"],
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"percentStatBonus": {"food": 15},
 		"requiredTech": "The Wheel"  
+	},
+	{
+		"name": "Great Stone Works",
+		"replaces": "Stone Works",
+		"uniqueTo": "Great Republic",
+		"happiness": 1,
+		"production": 1,
+		"requiredNearbyImprovedResources": ["Marble", "Stone"],
+		"maintenance": 1,
+		"hurryCostModifier": 0,
+		"uniques": ["Can be on Plains",
+			"[+1 Production] from [Stone] tiles [in this city]",
+			"[+1 Production] from [Marble] tiles [in this city]",
+			"[+2 Faith] from [Quarry] tiles [in this city]"],
+		"requiredTech": "Calendar"
 	},
     {
 		"name": "Great Walls",
@@ -52,6 +89,7 @@
 		"cityStrength": 6,
 		"cityHealth": 100,
 		"hurryCostModifier": 25,
+	        "faith": 2,
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured"]
 	},
@@ -67,6 +105,19 @@
 			"Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
   	},
+	{
+		"name": "Great Lighthouse",
+		"replaces": "Lighthouse",
+		"uniqueTo": "Great Republic",
+		"cost": 75,
+		"production": 1,
+		"cityStrength": 5,
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Must be next to [Coast]", "[+1 Food] from [Ocean] tiles [in this city]",
+			"[+1 Food] from [Coast] tiles [in this city]", "[+1 Food] from [Fish] tiles [in this city]"],
+		"requiredTech": "Optics"
+	},
     {
 		"name": "Great Temple",
 		"replaces": "Temple",
@@ -112,7 +163,7 @@
 		"name": "Great Garden",
 		"replaces": "Garden",
 		"uniqueTo": "Great Republic",
-		"uniques": ["[+25]% Great Person generation [in this city]", "Must be next to [Fresh water]"],
+		"uniques": ["[+34]% Great Person generation [in this city]", "[+2 Faith] from [Jungle] tiles [in this city]"],
 		"hurryCostModifier": 25,
 		"faith": 3,
 		"maintenance": 1,
@@ -128,24 +179,37 @@
 		"specialistSlots": {"Engineer": 1},
 		"percentStatBonus": {"production": 10},
 		"hurryCostModifier": 25,
-		"uniques": ["[+1 Production] from [Forest] tiles [in this city]"],
+		"uniques": ["[+1 Production] from [Forest] tiles [in this city]", "[+1 Production, +1 Culture] from [Fishing Boats] tiles [in this city]"],
 		"requiredTech": "Metal Casting"
     },
+	{
+		"name": "Great Courthouse",
+            "replaces": "Courthouse",
+            "uniqueTo": "Great Republic",
+		"maintenance": 0,
+		"hurryCostModifier": 0,
+		"uniques": ["Cheaper to buy", "Remove extra unhappiness from annexed cities",
+			"Provides [1] [Tea]",
+			"Can only be built [in annexed cities]"],
+		"requiredTech": "Mathematics"
+	},
     {
 		"name": "Great University",
 		"replaces": "University",
 		"uniqueTo": "Great Republic",
-		"maintenance": 2,
+		"maintenance": 1,
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"science": 33},
 		"specialistSlots": {"Scientist": 2},
-		"culture": 3,
+	  	"culture": 3,
+	        "faith": 3,
+	        "happiness": 1,
 		"requiredBuilding": "Library",
-		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]"],
+		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]", "[Great Prophet] units built [in this city] can [Spread Religion] [1] extra times","[+2 Science] from [Jungle] tiles [in this city]", "[+2 Science] from [Oasis] tiles [in this city]"],
 		"requiredTech": "Education"
     },
    	{
-		"name": "GReat Castle",
+		"name": "Great Castle",
 		"replaces": "Castle",
 		"uniqueTo": "Great Republic",
 		"cityStrength": 7,
@@ -161,7 +225,8 @@
 		"name": "Great Opera House",
 		"replaces": "Opera House",
 		"uniqueTo": "Great Republic",
-		"culture": 4,
+		"culture": 6,
+		"science": 2,
 		"happiness": 3,
 		"specialistSlots": {"Artist": 1},
 		"hurryCostModifier": 10,
