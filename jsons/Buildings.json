@@ -11,9 +11,9 @@
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
-		"name": "Enirhs",
+		"name": "Great Shrine",
 		"replaces": "Shrine",
-		"uniqueTo": "Upside-Down",
+		"uniqueTo": "Great Republic",
 		"faith": 2,
 		"science": 2,
 		"cost": 40,
@@ -33,7 +33,7 @@
 	{
 		"name": "Retaw Llim",
 		"replaces": "Water Mill",
-		"uniqueTo": "Upside-Down",
+		"uniqueTo": "Great Republic",
 		"cost": 75,
 		"food": 2,
 		"production": 1,
@@ -48,7 +48,7 @@
 		"name": "Sllaw",
 		"replaces": "Walls",
 		"cost": 65,
-		"uniqueTo": "Upside-Down",
+		"uniqueTo": "Great Republic",
 		"cityStrength": 6,
 		"cityHealth": 100,
 		"hurryCostModifier": 25,
@@ -58,7 +58,7 @@
     {
 		"name": "Skcarrab",
 	   	"replaces": "Barracks",
-		"uniqueTo": "Upside-Down",
+		"uniqueTo": "Great Republic",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"uniques": ["[-25]% Culture cost of natural border growth [in this city]",
@@ -70,7 +70,7 @@
     {
 		"name": "Elpmet",
 		"replaces": "Temple",
-		"uniqueTo": "Upside-Down",
+		"uniqueTo": "Great Republic",
 		"maintenance": 0,
 		"hurryCostModifier": 25,
 		"culture": 2,
@@ -81,10 +81,24 @@
 		"uniques": ["Hidden when religion is disabled",
 			"Destroyed when the city is captured"]
    	},
+	{
+		"name": "Great Stable",
+		"replaces": "Stable",
+		"cost": 75,
+		"uniqueTo": "Great Republic",
+		"maintenance": 0,
+		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
+		"hurryCostModifier": 25,
+		"uniques": ["New [Mounted] units start with [15] Experience [in this city]","[+15]% Production when constructing [Mounted] units [in this city]",
+			"[+1 Production, +1 Gold] from [Cattle] tiles [in this city]",
+			"[+1 Production, +1 Gold] from [Horses] tiles [in this city]",
+			"[+1 Production, +1 Gold] from [Sheep] tiles [in this city]"],
+		"requiredTech": "Horseback Riding"
+	},
     {
 		"name": "Tekram",
 		"replaces": "Market",
-		"uniqueTo": "Upside-Down",
+		"uniqueTo": "Great Republic",
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 25,
@@ -94,10 +108,20 @@
 			"[+2 Gold] from [Oasis] tiles [in this city]"],
 		"requiredTech": "Currency"
     },
+	{
+		"name": "Great Garden",
+		"replaces": "Garden",
+		"uniqueTo": "Great Republic",
+		"uniques": ["[+25]% Great Person generation [in this city]", "Must be next to [Fresh water]"],
+		"hurryCostModifier": 25,
+		"faith": 3,
+		"maintenance": 1,
+		"requiredTech": "Theology"
+	},
     {
 		"name": "Pohskrow",
 		"replaces": "Workshop",
-		"uniqueTo": "Upside-Down",
+		"uniqueTo": "Great Republic",
 		"cost": 100,
 		"maintenance": 2,
 		"production": 2,
@@ -110,7 +134,7 @@
     {
 		"name": "Ytisrevinu",
 		"replaces": "University",
-		"uniqueTo": "Upside-Down",
+		"uniqueTo": "Great Republic",
 		"maintenance": 2,
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"science": 33},
@@ -123,7 +147,7 @@
    	{
 		"name": "Eltsac",
 		"replaces": "Castle",
-		"uniqueTo": "Upside-Down",
+		"uniqueTo": "Great Republic",
 		"cityStrength": 7,
 		"cityHealth": 25,
 		"culture": 2,
@@ -136,7 +160,7 @@
 	{
 		"name": "Arepo Esuoh",
 		"replaces": "Opera House",
-		"uniqueTo": "Upside-Down",
+		"uniqueTo": "Great Republic",
 		"culture": 4,
 		"happiness": 3,
 		"specialistSlots": {"Artist": 1},
@@ -149,7 +173,7 @@
     {
 		"name": "Knab",
 		"replaces": "Bank",
-		"uniqueTo": "Upside-Down",	
+		"uniqueTo": "Great Republic",	
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
 		"happiness": 2,
@@ -161,7 +185,7 @@
 	{
 		"name": "Llimdniw",
 		"replaces": "Windmill",
-		"uniqueTo": "Upside-Down",
+		"uniqueTo": "Great Republic",
 		"production": 2,
 		"percentStatBonus": {"production": 10},
 		"specialistSlots": {"Engineer": 1},
@@ -170,4 +194,25 @@
 		"uniques": ["[+25]% Great Person generation [in this city]"],
 		"requiredTech": "Economics"
 	}
+	{
+        "name": "Cloves",
+        "uniqueTo": "Great Republic",
+        "isNationalWonder": true, 
+        "cost": 1,
+        "uniques": ["Only available <in cities without a [Palace]>","Only available <in cities without a [Nutmeg]>","Only available <in cities without a [Pepper]>","Limited to [1] per Civilization","Will not be displayed in Civilopedia","Provides [2] [Cloves]","Must be next to [Coast]"],
+    },
+    {
+        "name": "Nutmeg",
+        "uniqueTo": "Great Republic",
+        "isNationalWonder": true,
+        "cost": 1,
+        "uniques": ["Only available <in cities without a [Palace]>","Only available <in cities without a [Cloves]>","Only available <in cities without a [Pepper]>","Limited to [1] per Civilization","Will not be displayed in Civilopedia","Provides [2] [Nutmeg]","Must be next to [Coast]"],
+    },
+    {
+        "name": "Pepper",
+        "uniqueTo": "Great Republic",
+        "isNationalWonder": true,
+        "cost": 1,
+        "uniques": ["Only available <in cities without a [Palace]>","Only available <in cities without a [Nutmeg]>","Only available <in cities without a [Cloves]>","Limited to [1] per Civilization","Will not be displayed in Civilopedia","Provides [2] [Pepper]","Must be next to [Coast]"],
+    },
 ]
