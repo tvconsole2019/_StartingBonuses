@@ -9,6 +9,34 @@
 		"uniques": ["Requires a [Monument] in all cities", "[+25]% Great Person generation [in this city]", "Cost increases by [30] per owned city", "[+1 Food, +2 Faith] from [Academy] tiles [in this city]"],
 		"requiredTech": "Writing"
 	},
+	{
+		"name": "Great Ironworks",
+		"replaces": "Ironworks",
+		"uniqueTo": "Great Republic",
+		"cost": 125,
+		"production": 1,
+		"culture": 1,
+		"isNationalWonder": true,
+		"uniques": ["Requires a [Workshop] in all cities", "Cost increases by [30] per owned city", "[+2 Culture] [in all cities connected to capital]",
+			"Must be on [River]",
+			"[+2 Production] from every [Engineer]",
+			"[+2 Production] from [Manufactory] tiles [in this city]"],
+		"requiredTech": "Machinery"
+	},
+	{
+		"name": "Great's Palace",
+		"replaces": "Palace",
+		"uniqueTo": "Great Republic",
+		"isNationalWonder": true,
+		"production": 3,
+		"science": 3,
+		"gold": 3,
+		"culture": 3,
+		"specialistSlots": {"Merchant": 2},
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Indicates the capital city", "[+100]% [Food] from City-States", "+2 Merchant slots"]
+	},
    	{
 		"name": "Great Monument",
 		"replaces": "Monument",
@@ -21,35 +49,53 @@
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
+		"name": "Great Granary",
+		"replaces": "Granary",
+		"uniqueTo": "Great Republic",
+		"food": 2,
+		"culture": 1,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]", "[+1 Culture] from [Camp] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]",
+			"[+1 Culture] from [Plantation] tiles [in this city]",
+			"[+1 Food] [in capital]"],
+		"requiredTech": "Pottery"
+	},
+	{
 		"name": "Great Shrine",
 		"replaces": "Shrine",
 		"uniqueTo": "Great Republic",
 		"faith": 2,
 		"science": 2,
 		"happiness": 1,
+		"culture": 1,
 		"cost": 40,
-		"maintenance": 1,
+		"maintenance": 0,
 		"requiredTech": "Pottery",
 		"uniques": ["Hidden when religion is disabled", "[+20]% Production when constructing [Military] units [in this city] <before the [Medieval era]>"]
 	},
 	{
-		"name": "Great Saloon",
+		"name": "Great Circus",
 		"replaces": "Circus",
 		"uniqueTo": "Great Republic",
 		"requiredNearbyImprovedResources": ["Horses", "Cattle"],
 		"happiness": 2,
 		"gold": 2,
+		"culture": 1,
 		"hurryCostModifier": 25,
-		"uniques": ["Available with Horses, Cattle"],
+		"uniques": ["Available with Horses, Cattle", "[-33]% Culture cost of natural border growth [in this city]"],
 		"requiredTech": "Trapping"
 	},
 	{
     	        "name": "Great Library",
 		"replaces": "Library",
 		"uniqueTo": "Great Republic",
+		"specialistSlots": {"Artist": 1},
 		"hurryCostModifier": 25,
 		"gold": 2,
-		"uniques": ["[+1 Science] per [2] population [in this city]", "New [Military] units start with [10] Experience [in this city]"],
+		"uniques": ["[+1 Science] per [2] population [in this city]", "New [Military] units start with [10] Experience [in this city]", "+1 Artist Slot"],
 		"requiredTech": "Writing"
 	},
 	{
@@ -59,12 +105,20 @@
 		"cost": 75,
 		"food": 2,
 		"production": 1,
-		"uniques": ["[+2 Food] from [Lakes] tiles [in this city]", "[+1 Food] from [Flood plains] tiles [in this city]",
-			"Must be next to [Fresh water]"],
+		"uniques": ["[+2 Food] from [Lakes] tiles [in this city]", "[+1 Food] from [Flood plains] tiles [in this city]", "[+10]% growth [in this city]"],
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"percentStatBonus": {"food": 15},
 		"requiredTech": "The Wheel"  
+	},
+	{
+		"name": "Great Colosseum",
+		"replaces": "Colosseum",
+		"uniqueTo": "Great Republic",
+		"maintenance": 1,
+		"happiness": 3,
+		"hurryCostModifier": 25,
+		"requiredTech": "Construction"
 	},
 	{
 		"name": "Great Stone Works",
@@ -90,14 +144,17 @@
 		"cityHealth": 100,
 		"hurryCostModifier": 25,
 	        "faith": 2,
+	        "culture": 2
 		"requiredTech": "Masonry",
-		"uniques": ["Destroyed when the city is captured"]
+		"uniques": ["Destroyed when the city is captured", "[+1 Gold] <after discovering [Flight]>"]
 	},
     {
 		"name": "Great Barrack",
 	   	"replaces": "Barracks",
 		"uniqueTo": "Great Republic",
 		"hurryCostModifier": 25,
+	        "culture": 2,
+		"cost": 100,
 		"maintenance": 1,
 		"uniques": ["[-25]% Culture cost of natural border growth [in this city]", "All newly-trained [Sword] units [in this city] receive the [Buffalo Horns] promotion",
 			"[-25]% Gold cost of acquiring tiles [in this city]",
@@ -115,7 +172,7 @@
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"uniques": ["Must be next to [Coast]", "[+1 Food] from [Ocean] tiles [in this city]",
-			"[+1 Food] from [Coast] tiles [in this city]", "[+1 Food] from [Fish] tiles [in this city]"],
+			"[+1 Food] from [Coast] tiles [in this city]", "[+2 Food] from [Fish] tiles [in this city]"],
 		"requiredTech": "Optics"
 	},
     {
@@ -129,7 +186,7 @@
 		"happiness": 2,
 		"requiredBuilding": "Shrine",
 		"requiredTech": "Philosophy",
-		"uniques": ["Hidden when religion is disabled",
+		"uniques": ["Hidden when religion is disabled", "[+15]% growth [in this city]",
 			"Destroyed when the city is captured"]
    	},
 	{
@@ -138,10 +195,11 @@
 		"cost": 75,
 		"uniqueTo": "Great Republic",
 		"maintenance": 0,
+		"happiness": 1,
 		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
 		"hurryCostModifier": 25,
-		"uniques": ["New [Mounted] units start with [15] Experience [in this city]","[+15]% Production when constructing [Mounted] units [in this city]",
-			"[+1 Production, +1 Gold] from [Cattle] tiles [in this city]",
+		"uniques": ["New [Mounted] units start with [15] Experience [in this city]","[+15]% Production when constructing [Mounted] units [in this city]", "[+15]% Production when constructing [{Land} {Melee}] units [in this city]",
+			"[+1 Production, +1 Gold] from [Cattle] tiles [in this city]", "[+1 Gold] from [Pasture] tiles [in this city]",
 			"[+1 Production, +1 Gold] from [Horses] tiles [in this city]",
 			"[+1 Production, +1 Gold] from [Sheep] tiles [in this city]"],
 		"requiredTech": "Horseback Riding"
@@ -160,14 +218,32 @@
 		"requiredTech": "Currency"
     },
 	{
+		"name": "Great Mint",
+		"replaces": "Mint",
+		"uniqueTo": "Great Republic",
+		"maintenance": 0,
+		"hurryCostModifier": 25,
+		"faith": 2,
+		"uniques": ["[+2 Food] from [Cotton] tiles [in this city]", "[+2 Gold] from [Salt] tiles [in this city]","[+2 Gold] from [Gold Ore] tiles [in this city]","[+2 Gold] from [Copper] tiles [in this city]","[+2 Gold] from [Ivory] tiles [in this city]","Can be build with Salt, Gold Ore, Copper, Ivory",
+                        "[+2 Food] from [Silk] tiles [in this city]", "[+2 Gold] from [Gold Ore] tiles [in this city]", "[+2 Gold] from [Silver] tiles [in this city]", "[+34]% Natural religion spread [in this city]", "[+2 Faith, +2 Gold] <on foreign continents>",
+                        "[+2 Food] from [Dyes] tiles [in this city]"], 
+		"requiredTech": "Currency"
+	},
+	{
 		"name": "Great Garden",
 		"replaces": "Garden",
 		"uniqueTo": "Great Republic",
-		"uniques": ["[+34]% Great Person generation [in this city]", "[+2 Faith] from [Jungle] tiles [in this city]"],
+		"uniques": ["[+34]% Great Person generation [in this city]", "[+2 Faith] from [Jungle] tiles [in this city]", "Free [Great Merchant] appears", "Unsellable", "Cost increases by [20] per owned city",
+		            "[+1 Food, +1 Gold] <with [1] to [2] neighboring [Desert] tiles>",
+                            "[+2 Food, +2 Gold] <with [3] to [4] neighboring [Desert] tiles>",
+                            "[+3 Food, +3 Gold] <with [5] to [6] neighboring [Desert] tiles>"],
 		"hurryCostModifier": 25,
+		"cityStrength": 5,
+		"cityHealth": 50,
 		"faith": 3,
+		"happiness": 2,
 		"maintenance": 1,
-		"requiredTech": "Theology"
+		"requiredTech": "Construction"
 	},
     {
 		"name": "Great Workshop",
@@ -183,15 +259,27 @@
 		"requiredTech": "Metal Casting"
     },
 	{
+		"name": "Great Harbor",
+		"replaces": "Harbor",
+		"uniqueTo": "Great Republic",
+		"cost": 75,
+		"maintenance": 0,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Production] from [Water resource] tiles [in this city]","Connects trade routes over water","Must be next to [Coast]", "Unlocked at Optics"],
+		"requiredTech": "Optics"
+	},
+	{
 		"name": "Great Courthouse",
             "replaces": "Courthouse",
             "uniqueTo": "Great Republic",
 		"maintenance": 0,
+		"culture": 3,
+		"faith": 3,
 		"hurryCostModifier": 0,
 		"uniques": ["Cheaper to buy", "Remove extra unhappiness from annexed cities",
-			"Provides [1] [Tea]",
+			"Provides [1] [Tea]", "Unlocked at Writing",
 			"Can only be built [in annexed cities]"],
-		"requiredTech": "Mathematics"
+		"requiredTech": "Writing"
 	},
     {
 		"name": "Great University",
@@ -208,6 +296,16 @@
 		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]", "[Great Prophet] units built [in this city] can [Spread Religion] [1] extra times","[+2 Science] from [Jungle] tiles [in this city]", "[+2 Science] from [Oasis] tiles [in this city]"],
 		"requiredTech": "Education"
     },
+	{
+		"name": "Great Aqueduct",
+		"replaces": "Aqueduct",
+		"uniqueTo": "Great Republic",
+		"happiness": 1,
+		"maintenance": 0,
+		"hurryCostModifier": 0,
+		"uniques": ["[40]% Food is carried over after population increases [in this city]"],
+		"requiredTech": "Engineering"
+	},
    	{
 		"name": "Great Castle",
 		"replaces": "Castle",
@@ -217,7 +315,7 @@
 		"culture": 2,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
-		"uniques": ["[+1 Gold] [in this city] <after discovering [Flight]>",
+		"uniques": ["[+1 Gold] [in this city] <after discovering [Flight]>", "New [non-air] units start with [15] Experience [in this city]",
 			"Destroyed when the city is captured"],
 		"requiredTech": "Chivalry"
     },
@@ -248,6 +346,18 @@
 		"requiredTech": "Banking"
     },
 	{
+		"name": "Great Museum",
+		"replaces": "Museum",
+		"uniqueTo": "Great Republic",
+		"culture": 5,
+		"specialistSlots": {"Artist": 2},
+		"requiredBuilding": "Opera House",
+		"maintenance": 0,
+		"hurryCostModifier": 0,
+		"requiredTech": "Archaeology",
+		"uniques": ["Destroyed when the city is captured", "[+1 Culture] from [Tundra] tiles [in this city]"]
+	},
+	{
 		"name": "Great Windmill",
 		"replaces": "Windmill",
 		"uniqueTo": "Great Republic",
@@ -255,8 +365,8 @@
 		"percentStatBonus": {"production": 10},
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
-		"maintenance": 2,
-		"uniques": ["[+25]% Great Person generation [in this city]"],
+		"maintenance": 0,
+		"uniques": ["[+25]% Great Person generation [in this city]", "[+2 Food] from [Wheat] tiles [in this city]", "[+2 Food] from [Cattle] tiles [in this city]"],
 		"requiredTech": "Economics"
 	}
 	{
