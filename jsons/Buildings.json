@@ -31,7 +31,7 @@
 		"requiredTech": "Writing"
 	},
 	{
-		"name": "Retaw Llim",
+		"name": "Great Water Mill",
 		"replaces": "Water Mill",
 		"uniqueTo": "Great Republic",
 		"cost": 75,
@@ -45,7 +45,7 @@
 		"requiredTech": "The Wheel"  
 	},
     {
-		"name": "Sllaw",
+		"name": "Great Walls",
 		"replaces": "Walls",
 		"cost": 65,
 		"uniqueTo": "Great Republic",
@@ -56,19 +56,19 @@
 		"uniques": ["Destroyed when the city is captured"]
 	},
     {
-		"name": "Skcarrab",
+		"name": "Great Barrack",
 	   	"replaces": "Barracks",
 		"uniqueTo": "Great Republic",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"uniques": ["[-25]% Culture cost of natural border growth [in this city]",
+		"uniques": ["[-25]% Culture cost of natural border growth [in this city]", "All newly-trained [Sword] units [in this city] receive the [Buffalo Horns] promotion",
 			"[-25]% Gold cost of acquiring tiles [in this city]",
 			"New [Military] units start with [15] Experience [in this city]",
 			"Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
   	},
     {
-		"name": "Elpmet",
+		"name": "Great Temple",
 		"replaces": "Temple",
 		"uniqueTo": "Great Republic",
 		"maintenance": 0,
@@ -96,7 +96,7 @@
 		"requiredTech": "Horseback Riding"
 	},
     {
-		"name": "Tekram",
+		"name": "Great Market",
 		"replaces": "Market",
 		"uniqueTo": "Great Republic",
 		"gold": 2,
@@ -119,7 +119,7 @@
 		"requiredTech": "Theology"
 	},
     {
-		"name": "Pohskrow",
+		"name": "Great Workshop",
 		"replaces": "Workshop",
 		"uniqueTo": "Great Republic",
 		"cost": 100,
@@ -132,7 +132,7 @@
 		"requiredTech": "Metal Casting"
     },
     {
-		"name": "Ytisrevinu",
+		"name": "Great University",
 		"replaces": "University",
 		"uniqueTo": "Great Republic",
 		"maintenance": 2,
@@ -145,7 +145,7 @@
 		"requiredTech": "Education"
     },
    	{
-		"name": "Eltsac",
+		"name": "GReat Castle",
 		"replaces": "Castle",
 		"uniqueTo": "Great Republic",
 		"cityStrength": 7,
@@ -158,7 +158,7 @@
 		"requiredTech": "Chivalry"
     },
 	{
-		"name": "Arepo Esuoh",
+		"name": "Great Opera House",
 		"replaces": "Opera House",
 		"uniqueTo": "Great Republic",
 		"culture": 4,
@@ -171,19 +171,19 @@
 		"uniques": ["Destroyed when the city is captured"]
 	},
     {
-		"name": "Knab",
+		"name": "Great Bank",
 		"replaces": "Bank",
 		"uniqueTo": "Great Republic",	
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
 		"happiness": 2,
 		"hurryCostModifier": 15,
-		"percentStatBonus": {"gold": 25},
-		"requiredBuilding": "Market",
+		"uniques": ["[+5]% [Production] [in this city]",
+                "[+25]% [Gold] [in this city]","Requires a [Market] [in this city]"],
 		"requiredTech": "Banking"
     },
 	{
-		"name": "Llimdniw",
+		"name": "Great Windmill",
 		"replaces": "Windmill",
 		"uniqueTo": "Great Republic",
 		"production": 2,
