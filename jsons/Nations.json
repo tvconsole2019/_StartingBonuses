@@ -67,7 +67,7 @@
 			"[+20]% Strength <when fighting units from a Civilization with more Cities than you>", "[All] units gain the [Rejuvenation] promotion", "[Military] units gain the [Woodsman] promotion",
 			"Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.", "[-10]% Culture cost of adopting new Policies", "[+25]% [Science] [in all cities]", "[+50]% [Culture] [in all cities] <during a Golden Age>", "[Great Artist] is earned [50]% faster <during a Golden Age>",
 		        "[-50]% maintenance costs <for [Sword] units>", "[-50]% maintenance costs <for [Gunpowder] units>", "[+50]% XP gained from combat <for [Military] units>", "[+1 Culture, +2 Gold] from each Trade Route", "[+100]% [Gold] [in capital]", "Receive free [Great Merchant] when you discover [Optics]",
-		        "[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>", "[-25]% Culture cost of natural border growth [in all cities]", "[+3 Gold] from every [Luxury resource]", "[Military] units gain the [March] promotion", "[Military] units gain the [Buffalo Horns] promotion"]
+		        "[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>", "[-25]% Culture cost of natural border growth [in all cities]", "[+3 Gold] from every [Luxury resource]", "[Military] units gain the [March] promotion", " [{Military} {Land} {Melee}] units gain the [Buffalo Horns] promotion"]
 		 
 	        "cities": ["Great City", "Wersa", "Frano", "Mirpo", "Qures", "Kali", "Cater", "Lomangan", "Iodan", "Prutor", "Youna", "Zaroone", "Tenyu", "Kirluna", "Wesdan", "Porluna", "Gunada", "Lakes Velocity", "Hope City", "Xen", "Brunai", "Jarna", "Uwa", "Kana"]
 	},
