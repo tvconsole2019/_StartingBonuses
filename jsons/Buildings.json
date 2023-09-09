@@ -53,6 +53,14 @@
 		"maintenance": 0,
 		"uniques": ["Free [Settler] appears", "Limited to [5] per Civilization"]
 	},
+	{
+		"name": "AI Reprisal",
+		"cost": 1,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"uniques": ["[+100]% unhappiness from the number of cities", "Limited to [1] per Civilization", "Automatically built in all cities where it is buildable", "Can only be built [in the capital]",
+		            "Triggers a global alert upon completion"]
+	},
    	{
 		"name": "Great Monument",
 		"replaces": "Monument",
