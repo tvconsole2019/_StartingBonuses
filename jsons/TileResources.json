@@ -1,6 +1,6 @@
 ]
  {
-		"name": "Great Prestige", //Unique to Great Republic, Grant powerful perk
+		"name": "Great Prestige",
 		"resourceType": "Bonus",
 		"Gold": 1,
 	},
