@@ -1,3 +1,4 @@
+
 [
 	{
 		"name": "Great National Epic",
@@ -44,6 +45,13 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": ["Reveals the entire map", "Limited to [1] per Civilization"]
+	},
+	{
+		"name": "Happy",
+		"cost": 1,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"uniques": ["[+1 Happiness] per [3] social policies adopted", "Limited to [1] per Civilization"]
 	},
    	{
 		"name": "Great Monument",
