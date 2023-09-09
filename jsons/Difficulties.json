@@ -1,4 +1,5 @@
-{
+[
+    {
 		"name": "Not Deity 2",
 		"baseHappiness": 9,
 		"extraHappinessPerLuxury": 0,
@@ -27,3 +28,4 @@
 		"turnBarbariansCanEnterPlayerTiles": 0,
 		"clearBarbarianCampReward": 25
 	}
+]
