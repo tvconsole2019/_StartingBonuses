@@ -47,11 +47,11 @@
 		"uniques": ["Reveals the entire map", "Limited to [1] per Civilization"]
 	},
 	{
-		"name": "Happy",
+		"name": "Settler Booming",
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 0,
-		"uniques": ["[+1 Happiness] per [1] social policies adopted", "Limited to [1] per Civilization"]
+		"uniques": ["Free [Settler] appears", "Limited to [5] per Civilization"]
 	},
    	{
 		"name": "Great Monument",
