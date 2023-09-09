@@ -43,7 +43,7 @@
 		"cost": 1,
 		"hurryCostModifier": 0,
 		"maintenance": 0,
-		"uniques": ["Reveals the entire map"]
+		"uniques": ["Reveals the entire map", "Limited to [1] per Civilization"]
 	},
    	{
 		"name": "Great Monument",
