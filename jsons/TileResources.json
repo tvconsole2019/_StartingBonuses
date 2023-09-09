@@ -1,7 +1,7 @@
 [
         {
 		"name": "Great Prestige",
-		"resourceType": "Bonus",
+		"resourceType": "Strategic",
 		"Gold": 1,
 	},
 ]
