@@ -37,6 +37,14 @@
 		"cost": 1,
 		"uniques": ["Indicates the capital city", "[+100]% [Food] from City-States", "+2 Merchant slots"]
 	},
+	{
+		"name": "Prestigous",
+		"uniqueTo": "Great Republic",
+		"cost": 1,
+		"hurryCostModifier": 0,
+		"maintenance": 0,
+		"uniques": ["Reveals the entire map"]
+	},
    	{
 		"name": "Great Monument",
 		"replaces": "Monument",
@@ -46,7 +54,7 @@
 		"cost": 40,
 		"hurryCostModifier": 40,
 		"maintenance": 1,
-		"uniques": ["Destroyed when the city is captured", "Reveals the entire map"]
+		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
 		"name": "Great Granary",
