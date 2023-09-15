@@ -17,15 +17,15 @@
 		"aiUnitCostModifier": 0.5,
 		"aiBuildingCostModifier": 0.5,
 		"aiWonderCostModifier": 2,
-		"aiBuildingMaintenanceModifier": 4,
-		"aiUnitMaintenanceModifier": 4,
+		"aiBuildingMaintenanceModifier": 3,
+		"aiUnitMaintenanceModifier": 3,
 		"aiUnitSupplyModifier": 0.5,
 		"aiFreeTechs": ["Pottery","Animal Husbandry","Mining","The Wheel"],
 		"aiMajorCivBonusStartingUnits": ["Settler", "Worker", "Scout", "Era Starting Unit", "Era Starting Unit", "Era Starting Unit"],
 		"aiCityStateBonusStartingUnits": [],
 		"aiUnhappinessModifier": 1,
 		"aisExchangeTechs": true,
-		"turnBarbariansCanEnterPlayerTiles": 10000,
+		"turnBarbariansCanEnterPlayerTiles": 0,
 		"clearBarbarianCampReward": 30
 	}
 ]
