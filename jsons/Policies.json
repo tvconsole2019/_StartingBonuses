@@ -31,15 +31,18 @@
                 ],
                 "row": 1,
                 "column": 3
+                "requires": ["Denial"],
             },
             {
                 "name": "Bargaining",
                 "uniques": [
                     "[-15]% Strength <for [All] units> <when fighting in [Foreign Land] tiles>",
-                    "[-50]% Strength for cities <with a garrison> <when attacking>"
+                    "[-50]% Strength for cities <with a garrison> <when attacking>",
+                    "[-15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"
                 ],
                 "row": 1,
                 "column": 5
+                "requires": ["Anger"],
             },
             {
                 "name": "Depression",
@@ -48,7 +51,7 @@
                     "[-1 Science] [in all cities]",
                     "[-2 Food] [in all cities]"
                 ],
-                "requires": ["Legalism"],
+                "requires": ["Bargaining"],
                 "row": 2,
                 "column": 2
             },
@@ -57,7 +60,7 @@
                 "uniques": [
                     "[-1 Gold, -1 Happiness] per [2] population [in capital]"
                 ],
-                "requires": ["Legalism"],
+                "requires": ["Depression"],
                 "row": 2,
                 "column": 4
             },
