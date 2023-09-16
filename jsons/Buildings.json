@@ -53,6 +53,7 @@
                     "Cannot build [Missile] units",
                     "Cannot build [Aircraft Carrier] units",
                     "Cannot build [Helicopter] units",]
+		"requiredTech": "AI Demise"
 	},
    	{
 		"name": "Great Monument",
