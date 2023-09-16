@@ -53,8 +53,8 @@
                     "Cannot build [Missile] units",
                     "Cannot build [Aircraft Carrier] units",
                     "Cannot build [Helicopter] units", "Rebel units may spawn",
-		    "[-1 Culture] from all [Culture] buildings", "[-1 Production] from all [Production] buildings", "[-1 Culture] from all [Culture] buildings","[-1 Science] from all [Science] buildings",
-		    "[-1 Gold] from all [Gold] buildings", "[-1 Culture] from all [Culture] buildings","[-1 Faith] from all [Faith] buildings"]
+		    "[-1 Production] from all [Production] buildings", "[-1 Culture] from all [Culture] buildings","[-1 Science] from all [Science] buildings", 
+		    "[-1 Gold] from all [Gold] buildings", "[-1 Food] from all [Food] buildings","[-1 Faith] from all [Faith] buildings"]
 		"requiredTech": "AI Demise"
 	},
    	{
