@@ -48,13 +48,12 @@
 		"maintenance": 0,
 		"uniques": ["Destroyed when the city is captured", "[50]% Culture cost of natural border growth [in this city]",
 		"Cannot build [Fighter] units", "Each city founded increases culture cost of policies [-50]% less than normal",
-                    "Cannot build [Bomber] units", "No defensive terrain bonus", "[-100]% Yield from every [Natural Wonder]"
+                    "Cannot build [Bomber] units", "No defensive terrain bonus", "[-100]% Yield from every [Natural Wonder]",
                     "Cannot build [Atomic Bomber] units",
                     "Cannot build [Missile] units",
                     "Cannot build [Aircraft Carrier] units",
                     "Cannot build [Helicopter] units",
-		    "Rebel units may spawn",
-                    "[-60]% Strength <vs [Barbarian] units>"]
+		    "Rebel units may spawn"]
 		"requiredTech": "AI Demise"
 	},
    	{
