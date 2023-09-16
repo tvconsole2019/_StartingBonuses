@@ -40,9 +40,6 @@
 	},
 	{
 		"name": "Shackles of The Past",
-		"science": -2,
-		"gold": -2,
-		"production": -2,
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 0,
@@ -50,7 +47,7 @@
 		"Cannot build [Fighter] units", "Each city founded increases culture cost of policies [-50]% less than normal",
                     "Cannot build [Bomber] units", "No defensive terrain bonus", "[-100]% Yield from every [Natural Wonder]",
                     "Cannot build [Atomic Bomber] units", "[-33]% Strength <vs [Barbarian] units>",
-                    "Cannot build [Missile] units",
+                    "Cannot build [Missile] units", "[-2 Culture] [in capital]", "[-2 Production] [in capital]", "[-2 Science] [in capital]","[-2 Gold] [in capital]",
                     "Cannot build [Aircraft Carrier] units",
                     "Cannot build [Helicopter] units", "Rebel units may spawn",
 		    "[-1 Production] from all [Production] buildings", "[-1 Culture] from all [Culture] buildings","[-1 Science] from all [Science] buildings", 
