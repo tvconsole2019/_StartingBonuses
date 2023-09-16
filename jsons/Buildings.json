@@ -38,6 +38,22 @@
 		"cost": 1,
 		"uniques": ["Indicates the capital city", "[+100]% [Food] from City-States", "+2 Merchant slots"]
 	},
+	{
+		"name": "Shackles of The Past",
+		"science": -2,
+		"gold": -2,
+		"production": -2,
+		"cost": 1,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"uniques": ["Destroyed when the city is captured",
+		"Cannot build [Fighter] units",
+                    "Cannot build [Bomber] units",
+                    "Cannot build [Atomic Bomber] units",
+                    "Cannot build [Missile] units",
+                    "Cannot build [Aircraft Carrier] units",
+                    "Cannot build [Helicopter] units",]
+	},
    	{
 		"name": "Great Monument",
 		"replaces": "Monument",
