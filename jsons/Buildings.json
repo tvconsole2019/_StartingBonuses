@@ -57,7 +57,7 @@
 		    "[-1 Gold] from all [Gold] buildings", "[-1 Culture] from all [Culture] buildings","[-1 Faith] from all [Faith] buildings"]
 		"requiredTech": "AI Demise"
 	},
-   	{p
+   	{
 		
 		"name": "Great Monument",
 		"replaces": "Monument",
