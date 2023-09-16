@@ -29,10 +29,10 @@
 		"replaces": "Palace",
 		"uniqueTo": "Great Republic",
 		"isNationalWonder": true,
-		"production": 4,
-		"science": 4,
-		"gold": 4,
-		"culture": 4,
+		"production": 5,
+		"science": 5,
+		"gold": 5,
+		"culture": 5,
 		"specialistSlots": {"Merchant": 2},
 		"cityStrength": 2,
 		"cost": 1,
@@ -46,12 +46,10 @@
 		"uniques": ["Destroyed when the city is captured",
 		"Cannot build [Fighter] units",
                     "Cannot build [Bomber] units", "No defensive terrain bonus", "[-100]% Yield from every [Natural Wonder]",
-                    "Cannot build [Atomic Bomber] units", "[-33]% Strength <vs [Barbarian] units>",
+                    "Cannot build [Atomic Bomber] units",
                     "Cannot build [Missile] units",
-                    "Cannot build [Aircraft Carrier] units", "Limited to [1] per Civilization",
-                    "Cannot build [Helicopter] units", "Rebel units may spawn",
-		    "[-1 Production] from all [Production] buildings", "[-1 Culture] from all [Culture] buildings","[-1 Science] from all [Science] buildings", 
-		    "[-1 Gold] from all [Gold] buildings", "[-1 Food] from all [Food] buildings","[-1 Faith] from all [Faith] buildings"]
+                    "Cannot build [Aircraft Carrier] units",
+                    "Cannot build [Helicopter] units"]
 		"requiredTech": "AI Demise"
 	},
    	{
