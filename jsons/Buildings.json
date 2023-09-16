@@ -54,7 +54,7 @@
                     "Cannot build [Aircraft Carrier] units",
                     "Cannot build [Helicopter] units",
 		    "Rebel units may spawn",
-                    "[-33]% Strength <vs [Barbarian] units>"]
+                    "[-75]% Strength <vs [Barbarian] units>"]
 		"requiredTech": "AI Demise"
 	},
    	{
