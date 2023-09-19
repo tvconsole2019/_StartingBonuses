@@ -46,7 +46,7 @@
 		"uniques": ["Destroyed when the city is captured",
 		"Cannot build [Fighter] units",
                     "Cannot build [Bomber] units", "No defensive terrain bonus", "[-100]% Yield from every [Natural Wonder]",
-                    "Cannot build [Atomic Bomber] units", "[-50]% [Culture] [in this city]", "[-50]% [Science] [in this city]", "[-50]% [Production] [in this city] <when at war>",
+                    "Cannot build [Atomic Bomber] units", "[-25]% [Culture] [in this city]", "[-25]% [Science] [in this city]", "[-25]% [Production] [in this city] <when at war>",
                     "Cannot build [Missile] units",
                     "Cannot build [Aircraft Carrier] units",
                     "Cannot build [Helicopter] units"]
