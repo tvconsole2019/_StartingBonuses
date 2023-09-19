@@ -19,7 +19,6 @@
 		"culture": 1,
 		"isNationalWonder": true,
 		"uniques": ["Requires a [Workshop] in all cities", "Cost increases by [30] per owned city", "[+2 Culture] [in all cities connected to capital]",
-			"Must be on [River]",
 			"[+2 Production] from every [Engineer]",
 			"[+2 Production] from [Manufactory] tiles [in this city]"],
 		"requiredTech": "Machinery"
