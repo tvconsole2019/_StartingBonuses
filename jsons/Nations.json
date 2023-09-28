@@ -61,16 +61,16 @@
 			"Retain [50]% of the happiness from a luxury after the last copy has been traded away",
 			"Gain [90] Influence with a [Great Person] gift to a City-State", "When declaring friendship, both parties gain a [10]% boost to great person generation",
 			"Can spend Gold to annex or puppet a City-State that has been your ally for [5] turns.",
-			"Gain a free [Harbor] [in all coastal cities]", "Land units may cross [Mountain] tiles after the first [Great General] is earned", "Units ending their turn on [Mountain] tiles take [50] damage", you 
+			"Gain a free [Harbor] [in all coastal cities]", "Land units may cross [Mountain] tiles after the first [Great General] is earned", "Units ending their turn on [Mountain] tiles take [50] damage",
 			"May choose [3] additional belief(s) of any type when [founding] a religion",
 			"[+1 Faith] [in all cities] <with [1] to [2] neighboring [unimproved] [Forest] tiles>", "[+2 Faith] [in all cities] <with [3] to [6] neighboring [unimproved] [Forest] tiles>",
 			"[+20]% Strength <when fighting units from a Civilization with more Cities than you>", "[All] units gain the [Rejuvenation] promotion", "[Military] units gain the [Woodsman] promotion", "[+50]% Strength for cities <when at war>",
 			"Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.", "[-10]% Culture cost of adopting new Policies", "[+25]% [Science] [in all cities]", "[+50]% [Culture] [in all cities] <during a Golden Age>", "[Great Artist] is earned [50]% faster <during a Golden Age>",
 		        "[-50]% maintenance costs <for [Sword] units>", "[-50]% maintenance costs <for [Gunpowder] units>", "[+50]% XP gained from combat <for [Military] units>", "[+1 Culture, +2 Gold] from each Trade Route", "[+100]% [Gold] [in capital]", "Receive free [Great Merchant] when you discover [Optics]", "[Military] units gain the [Besiege] promotion", "[All] units gain the [Blitz] promotion",
 		        "[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>", "[-25]% Culture cost of natural border growth [in all cities]", "[+3 Gold] from every [Luxury resource]", "[Military] units gain the [March] promotion", "[Military] units gain the [Buffalo Horns] promotion", "[All] units gain the [Ignore terrain cost] promotion",
-			"Influence of all other civilizations with all city-states degrades [+30]% faster", "No defensive terrain penalty", "[+250]% Strength <for [All] units> <when fighting in [Friendly Land] tiles> <when at war>", "[+125]% Strength <for [All] units> <when fighting in [Foreign Land] tiles> <when at war>",
+			"Influence of all other civilizations with all city-states degrades [+30]% faster", "No defensive terrain penalty", "[+150]% Strength <for [All] units> <when fighting in [Friendly Land] tiles> <when at war>", "[+75]% Strength <for [All] units> <when fighting in [Foreign Land] tiles> <when at war>",
 		        "Starts with [Honor] adopted", "[+100]% Production when constructing [Military] units [in all cities] <when at war>", "Starts with [Tradition] adopted", "[+50]% of excess happiness converted to [Culture]", "[+50]% of excess happiness converted to [Gold]", "[+50]% of excess happiness converted to [Science]", "[+50]% of excess happiness converted to [Food]",
-		        "[+1] Movement <for [Civilian] units>", "Free [Great General] appears <upon declaring war with a major Civilization>",
+		        "[+1] Movement <for [Civilian] units>", "Free [Great General] appears <upon founding a Pantheon>",
 	                "Enemy [Land] units must spend [1] extra movement points when inside your territory"]
 	        "cities": ["Great City", "Wersa", "Frano", "Mirpo", "Qures", "Kali", "Cater", "Lomangan", "Iodan", "Prutor", "Youna", "Zaroone", "Tenyu", "Kirluna", "Wesdan", "Porluna", "Gunada", "Lakes Velocity", "Hope City", "Xen", "Brunai", "Jarna", "Uwa", "Kana"]
 	},
