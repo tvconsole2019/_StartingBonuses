@@ -1,6 +1,6 @@
 [
 	{
-	"name": "Great Trader",
+	"name": "Great Politician",
 	"replaces": "Great Merchant",
 	"uniqueTo": "Great Republic",
 	"unitType": "Civilian",
@@ -8,5 +8,17 @@
 	"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [90] Influence",
 		"Can instantly construct a [Customs house] improvement <by consuming this unit>", "Double movement in [Coast]", "Great Person - [Gold]", "Unbuildable", "Uncapturable"
 	],
-        }
+        },
+	{
+		"name": "Great Strategist",
+		"uniqueTo": "Great Republic",
+		"replaces": "Great General",
+		"uniques": [
+            "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+            "[+15]% Strength bonus for [Military] units within [2] tiles",
+	    "All adjacent units heal [+15] HP when healing", "[+15] HP when healing",
+            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+            "Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"movement": 5
+	}
 ]
