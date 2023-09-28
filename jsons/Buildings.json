@@ -45,8 +45,8 @@
 		"uniques": ["Destroyed when the city is captured",
 		"Cannot build [Air] units", "[-95]% Production when constructing [All] wonders [in all cities]",
                     "No defensive terrain bonus", "[-100]% Yield from every [Natural Wonder]",
-                    "[-25]% [Culture] [in this city] <when at war>", "[-25]% [Science] [in this city] <when at war>", "[-25]% [Production] [in this city] <when at war>",
-                    "[-25]% [Food] [in this city] <when at war>", "[-25]% [Faith] [in this city] <when at war>",
+                    "[-20]% [Culture] [in this city]", "[-20]% [Science] [in this city]", "[-20]% [Production] [in this city]", "[-30]% [Production] [in this city] <when at war>",
+                    "[-20]% [Food] [in this city]", "[-25]% [Faith] [in this city]",
                     "Cannot build [Aircraft Carrier] units"]
 		"requiredTech": "AI Demise"
 	},
