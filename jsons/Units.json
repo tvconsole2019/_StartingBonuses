@@ -13,6 +13,7 @@
 		"name": "Great Strategist",
 		"uniqueTo": "Great Republic",
 		"replaces": "Great General",
+		"unitType": "Civilian",
 		"uniques": [
             "Empire enters a [8]-turn Golden Age <by consuming this unit>",
             "[+15]% Strength bonus for [Military] units within [2] tiles",
