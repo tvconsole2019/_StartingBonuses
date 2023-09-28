@@ -70,7 +70,7 @@
 		        "[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>", "[-25]% Culture cost of natural border growth [in all cities]", "[+3 Gold] from every [Luxury resource]", "[Military] units gain the [March] promotion", "[Military] units gain the [Buffalo Horns] promotion", "[All] units gain the [Ignore terrain cost] promotion",
 			"Influence of all other civilizations with all city-states degrades [+30]% faster", "No defensive terrain penalty", "[+250]% Strength <for [All] units> <when fighting in [Friendly Land] tiles> <when at war>", "[+125]% Strength <for [All] units> <when fighting in [Foreign Land] tiles> <when at war>",
 		        "Starts with [Honor] adopted", "[+100]% Production when constructing [Military] units [in all cities] <when at war>", "Starts with [Tradition] adopted", "[+50]% of excess happiness converted to [Culture]", "[+50]% of excess happiness converted to [Gold]", "[+50]% of excess happiness converted to [Science]", "[+50]% of excess happiness converted to [Food]",
-		        "[+1] Movement <for [Civilian] units>", 
+		        "[+1] Movement <for [Civilian] units>", "Free [Great General] appears <upon declaring war with a major Civilization>",
 	                "Enemy [Land] units must spend [1] extra movement points when inside your territory"]
 	        "cities": ["Great City", "Wersa", "Frano", "Mirpo", "Qures", "Kali", "Cater", "Lomangan", "Iodan", "Prutor", "Youna", "Zaroone", "Tenyu", "Kirluna", "Wesdan", "Porluna", "Gunada", "Lakes Velocity", "Hope City", "Xen", "Brunai", "Jarna", "Uwa", "Kana"]
 	},
