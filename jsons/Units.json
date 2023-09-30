@@ -253,8 +253,8 @@
 		"requiredTech": "Astronomy",
         "obsoleteTech": "Combustion",
 		"upgradesTo": "Ironclad",
-		"uniques": ["[+1] Sight",
-			"May withdraw before melee ([80]%)"],
+		"uniques": ["[+1] Sight", "Can undertake a trade mission with City-State, giving a large sum of gold and [0] Influence",
+			"May withdraw before melee ([50]%)"],
 		"hurryCostModifier": 30,
 		"attackSound": "cannon"
 	},
@@ -273,6 +273,22 @@
 			"Ignores terrain cost"],
 		"promotions": ["[Janissary] ability", "Drill I"],
 		"attackSound": "shot"
+	},
+	{
+		"name": "Lancer+", 
+		"replaces": "Lancer",
+		"uniqueTo": "Great Republic",
+		"unitType": "Mounted",
+		"movement": 5,
+		"strength": 28,
+		"cost": 185,
+		"requiredTech": "Metallurgy",
+		"obsoleteTech": "Combined Arms",
+		"upgradesTo": "Anti-Tank Gun",
+		"uniques": ["Can move after attacking","No defensive terrain bonus",
+			"[-33]% Strength <vs cities>","Consumes [1] [Horses]"],
+		"promotions": ["Shock I","Formation I","Heavy Charge"],
+		"attackSound": "horse"
 	},
 	{
 		"name": "Privateer+",
@@ -343,9 +359,9 @@
 		"unitType": "Mounted",
 		"replaces": "Cavalry",
 		"uniqueTo": "Great Republic",
-		"movement": 4,
+		"movement": 5,
 		"strength": 34,
-		"cost": 225,
+		"cost": 200,
 		"requiredTech": "Military Science",
 		"obsoleteTech": "Combustion",
 		"requiredResource": "Horses",
@@ -354,7 +370,7 @@
 			"No defensive terrain bonus",
 			"[-33]% Strength <vs cities> <when attacking>",
 			"[+1] Sight"],
-		"promotions": ["[Cossack] ability", "[Hussar] ability"],
+		"promotions": ["[Cossack] ability", "[Hussar] ability", "Homeland Guardian", "Desert Warrior"],
 		"attackSound": "horse"
 	},
 	{
@@ -405,6 +421,21 @@
 		"upgradesTo": "Infantry",
 		"uniques": ["[+20]% Strength <when fighting in [Foreign Land] tiles>"],
 		"attackSound": "shot"
+	},
+	{
+		"name": "Infantry+", 
+		"unitType": "Gunpowder",
+		"uniqueTo": "Great Republic",
+		"replaces": "Infantry",
+		"movement": 2,
+		"strength": 70,
+		"cost": 375,
+		"requiredTech": "Plastics",
+		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Mobile Tactics",
+		"promotions": ["Great Generals II"],
+		"uniques": ["[+20]% Strength <when fighting in [Foreign Land] tiles>"],
+		"attackSound": "shot"		
 	},
 	{
 		"name": "Tank+",
