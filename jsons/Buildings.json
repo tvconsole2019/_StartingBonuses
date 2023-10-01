@@ -38,14 +38,6 @@
 		"uniques": ["Indicates the capital city", "[+100]% [Food] from City-States", "+2 Merchant slots"]
 	},
 	{
-		"name": "Warmonger",
-		"cost": 1,
-		"hurryCostModifier": 1,
-		"maintenance": 0,
-		"uniques": ["Rebel units may spawn <when at war>", "Limited to [1] per Civilization"]
-		"requiredTech": "AI Demise"
-	},
-	{
 		"name": "Shackles of The Past",
 		"cost": 1,
 		"hurryCostModifier": 1,
@@ -54,7 +46,7 @@
 		"Cannot build [Air] units", "[-50]% Production when constructing [All] wonders [in this city]",
                     "No defensive terrain bonus", "[-100]% Yield from every [Natural Wonder]",
                     "[-20]% [Culture] [in this city]", "[-20]% [Science] [in this city]", "[-20]% [Production] [in this city]", "[-30]% [Production] [in this city] <when at war>",
-                    "[-20]% [Faith] [in this city]",
+                    "[-20]% [Faith] [in this city]", "Rebel units may spawn",
                     "Cannot build [Aircraft Carrier] units"]
 		"requiredTech": "AI Demise"
 	},
