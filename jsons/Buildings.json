@@ -38,6 +38,14 @@
 		"uniques": ["Indicates the capital city", "[+100]% [Food] from City-States", "+2 Merchant slots"]
 	},
 	{
+		"name": "Warmonger",
+		"cost": 1,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"uniques": ["Rebel units may spawn [in capital] <when at war>", "Limited to [1] per Civilization"]
+		"requiredTech": "AI Demise"
+	},
+	{
 		"name": "Shackles of The Past",
 		"cost": 1,
 		"hurryCostModifier": 1,
