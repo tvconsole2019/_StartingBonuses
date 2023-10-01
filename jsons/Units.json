@@ -4,7 +4,7 @@
 		"unitType": "Fighter",
 		"uniqueTo": "Great Republic",
 		"movement": 1,
-		"strength": 999,
+		"strength": 1,
 		"rangedStrength": 1,
 		"range": 1,
 		"interceptRange": 1,
