@@ -42,7 +42,7 @@
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 0,
-		"uniques": ["Rebel units may spawn [in capital] <when at war>", "Limited to [1] per Civilization"]
+		"uniques": ["Rebel units may spawn <when at war>", "Limited to [1] per Civilization"]
 		"requiredTech": "AI Demise"
 	},
 	{
