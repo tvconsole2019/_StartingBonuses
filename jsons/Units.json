@@ -1,21 +1,5 @@
 [
 	{
-		"name": "No Fog of War",
-		"unitType": "Fighter",
-		"uniqueTo": "Great Republic",
-		"movement": 1,
-		"strength": 1,
-		"rangedStrength": 1,
-		"range": 1,
-		"interceptRange": 1,
-		"cost": 1,
-		"uniques": ["[100]% chance to intercept air attacks", "[999] Sight",
-			"[+150]% Strength <vs [Bomber] units>",
-			"[+150]% Strength <vs [Helicopter] units>"],
-		"promotions": ["[Zero] ability"],
-		"attackSound": "machinegun"
-	},
-	{
 		"name": "Warrior+",
 		"unitType": "Sword",
 		"uniqueTo": "Great Republic",
