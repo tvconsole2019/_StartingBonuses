@@ -7,7 +7,7 @@
 		"maintenance": 0,
 		"uniques": ["Destroyed when the city is captured",
 		    "Cannot build [Air] units", "[-50]% Production when constructing [All] wonders [in this city]",
-                    "[-100]% Yield from every [Natural Wonder]",
+                    "[-50]% Yield from every [Natural Wonder]",
                     "[-20]% [Culture] [in this city]", "[-20]% [Science] [in this city]", "[-30]% [Production] [in this city] <when at war>",
                     "[-20]% [Faith] [in this city]", "[-20]% [Food] [in this city]", "[-20]% [Production] [in this city]"]
 		"requiredTech": "AI Demise"
