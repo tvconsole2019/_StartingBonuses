@@ -36,7 +36,7 @@
                     "Earn [100]% of killed [All] unit's [Strength] as [Science] <for [Human player]>",
 		    "May choose [1] additional [Founder] beliefs when [founding] a religion <for [Human player]>",
 		    "[1] Movement <for [All] units> <for [Human player]>", "[1] Sight <for [All] units> <for [Human player]>",
-		    "[+2 Culture, +2 Production] [in all cities]"]
+		    "[+2 Culture, +2 Production] [in all cities] <for [Human player]>"]
 			
 		    "requiredTech": "Agriculture"
 	},
