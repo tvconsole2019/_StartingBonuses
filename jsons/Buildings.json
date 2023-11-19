@@ -29,13 +29,14 @@
 		    "Great General provides double combat bonus <for [Human player]>",
 		    "[Military] units gain the [March] promotion <for [Human player]>",
 		    "[Military] units gain the [Besiege] promotion <for [Human player]>",
-	            "Notified of new Barbarian encampments <for [Human player]>" , "All healing effects doubled <for [Human player]>",
+	            "Notified of new Barbarian encampments <for [Human player]>" ,"All healing effects doubled <for [Human player]>",
 		    "Earn [100]% of killed [All] unit's [Strength] as [Gold] <for [Human player]>",
 		    "Earn [100]% of killed [All] unit's [Strength] as [Culture] <for [Human player]>",
 		    "Earn [100]% of killed [All] unit's [Strength] as [Faith] <for [Human player]>",
                     "Earn [100]% of killed [All] unit's [Strength] as [Science] <for [Human player]>",
 		    "May choose [1] additional [Founder] beliefs when [founding] a religion <for [Human player]>",
-		    "[1] Movement <for [All] units> <for [Human player]>", "[1] Sight <for [All] units> <for [Human player]>"]
+		    "[1] Movement <for [All] units> <for [Human player]>", "[1] Sight <for [All] units> <for [Human player]>",
+		    "[+2 Culture, +2 Production] [in all cities]"]
 			
 		    "requiredTech": "Agriculture"
 	},
