@@ -22,8 +22,7 @@
 		    "[-10]% [Production] [in all cities] <for [AI player]>", 
 		    "[-20]% [Gold] [in all cities] <starting from the [Classical era]> <for [AI player]>",
 		    "[-20]% [Gold] [in all cities] <starting from the [Medieval era]> <for [AI player]>",
-		    "[+25]% Strength for cities <when at war> <for [City-states]> <for [Human player]>",
-		    "[+50]% Production when constructing [Military] units [in all cities] <when at war> <for [City-states]>",
+		    "[+75]% Production when constructing [Military] units [in all cities] <when at war> <for [City-states]>",
 		    "City-State territory always counts as friendly territory <for [Human player]>",
 		    "Damage is ignored when determining unit Strength <for [Human player]>",
 		    "Great General provides double combat bonus <for [Human player]>",
@@ -36,7 +35,7 @@
                     "Earn [100]% of killed [All] unit's [Strength] as [Science] <for [Human player]>",
 		    "May choose [1] additional [Founder] beliefs when [founding] a religion <for [Human player]>",
 		    "[1] Movement <for [All] units> <for [Human player]>", "[1] Sight <for [All] units> <for [Human player]>",
-		    "[+2 Culture, +2 Production] [in all cities] <for [Human player]>"]
+		    "[+2 Culture, +2 Production] [in all cities] <for [Human player]>", "[100] XP gained from combat <for [Human player]>"]
 			
 		    "requiredTech": "Agriculture"
 	},
