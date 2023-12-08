@@ -16,8 +16,9 @@
 	            "Notified of new Barbarian encampments <for [Human player]>",
 		    "All healing effects doubled <for [Human player]>",
 		    "Receive triple Gold from Barbarian encampments and pillaging Cities <for [Human player]>",
-		    "May choose [1] additional [Founder] beliefs when [founding] a religion <for [Human player]>",
-		    "[1] Movement <for [All] units> <for [Human player]>", "[1] Sight <for [All] units> <for [Human player]>"]
+		    "May choose [3] additional [Pantheon] beliefs when [founding] a religion <for [Human player]>",
+		    "[1] Movement <for [All] units> <for [Human player]>",
+		    "[999] units cost no maintenance <for [Human player]>"]
 			
 		    "requiredTech": "Agriculture"
 	},
