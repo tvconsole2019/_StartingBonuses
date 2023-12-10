@@ -21,7 +21,7 @@
 		    "[1] Movement point cost to disembark <for [Human player]>",
 		    "[1] Movement point cost to embark <for [Human player]>",
 		    "[All] units gain the [March] promotion <for [Human player]>",
-		    "[All] units gain the [Ignore terrain cost] promotion <for [Human player]>"]
+		    "[All] units gain the [Cover] promotion <for [Human player]>"]
 			
 		    "requiredTech": "Agriculture"
 	},
