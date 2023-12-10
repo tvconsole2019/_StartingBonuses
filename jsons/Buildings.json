@@ -10,8 +10,10 @@
 	            "Science gained from research agreements [-95]% <for [AI player]>",
 		    "When declaring friendship, both parties gain a [-10]% boost to great person generation <for [AI player]>",
 	            "[-90]% Production when constructing [World Wonder] wonders [in all cities] <for [AI player]>",
+		    "[+25]% maintenance cost for buildings [in all cities] <for [AI player]>",
 		    "[+25]% construction time for [All] improvements <for [AI player]>",
 		    "[-25]% construction time for [All] improvements <for [Human player]>",
+		    "[-25]% maintenance cost for buildings [in all cities] <for [Human player]>",
 		    "City-State territory always counts as friendly territory <for [Human player]>",
 		    "Damage is ignored when determining unit Strength <for [Human player]>",
 		    "Great General provides double combat bonus <for [Human player]>",
@@ -22,8 +24,7 @@
 		    "[2] Movement <for [All] units> <for [Human player]>",
 		    "[1] Movement point cost to disembark <for [Human player]>",
 		    "[1] Movement point cost to embark <for [Human player]>",
-		    "[All] units gain the [March] promotion <for [Human player]>",
-		    "[All] units gain the [Cover] promotion <for [Human player]>"]
+		    "[All] units gain the [March] promotion <for [Human player]>"]
 			
 		    "requiredTech": "Agriculture"
 	},
