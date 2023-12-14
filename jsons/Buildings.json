@@ -15,8 +15,13 @@
 	            "Notified of new Barbarian encampments <for [Human player]>",
 		    "All healing effects doubled <for [Human player]>",
 		    "Receive triple Gold from Barbarian encampments and pillaging Cities <for [Human player]>",
-		    "May choose [3] additional [Any] beliefs when [founding] a religion <for [Human player]>"]
-			
+		    "Gain a free [Pantheon] belief <upon founding a Pantheon> <for [Human player]>",
+		    "Gain a free [Pantheon] belief <upon founding a Pantheon> <for [Human player]>",
+		    "Gain a free [Pantheon] belief <upon founding a Pantheon> <for [Human player]>",
+		    "Gain a free [Any] belief <upon founding a Religion> <for [Human player]>",
+		    "Gain a free [Follower] belief <upon founding a Religion> <for [Human player]>",
+		    "Gain a free [Founder] belief <upon founding a Religion> <for [Human player]>",
+                    "Gain a free [Enchanter] belief <upon enchanting a Religion> <for [Human player]>"]		
 		    "requiredTech": "Agriculture"
 	},
 ]
