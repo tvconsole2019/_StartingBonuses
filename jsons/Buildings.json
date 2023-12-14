@@ -21,7 +21,7 @@
 		    "Gain a free [Any] belief <upon founding a Religion> <for [Human player]>",
 		    "Gain a free [Follower] belief <upon founding a Religion> <for [Human player]>",
 		    "Gain a free [Founder] belief <upon founding a Religion> <for [Human player]>",
-                    "Gain a free [Enhanter] belief <upon enhanting a Religion> <for [Human player]>"]		
+                    "May choose [1] additional [Enhancer] beliefs when [Enhancing] a religion <for [Human player]>"]		
 		    "requiredTech": "Agriculture"
 	},
 ]
