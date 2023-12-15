@@ -20,7 +20,8 @@
 		    "Gain a free [Any] belief <upon founding a Religion> <for [Human player]>",
 		    "Gain a free [Follower] belief <upon founding a Religion> <for [Human player]>",
 		    "Gain a free [Founder] belief <upon founding a Religion> <for [Human player]>",
-                    "May choose [1] additional [Enhancer] beliefs when [founding] a religion <for [Human player]>"]		
+                    "May choose [1] additional [Enhancer] beliefs when [founding] a religion <for [Human player]>",
+		    "Gain enough Faith for a Pantheon <for [Human player]>"]		
 		    "requiredTech": "Agriculture"
 	},
 ]
