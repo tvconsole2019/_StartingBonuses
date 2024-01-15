@@ -10,6 +10,7 @@
 	            "Science gained from research agreements [-95]% <for [AI player]>",
 	            "[-90]% Production when constructing [World Wonder] wonders [in all cities] <for [AI player]>",
 		    "[-75]% Yield from every [Natural Wonder] <for [AI player]>",
+	            "[100]% Yield from every [Natural Wonder] <for [Human player]>",
 		    "City-State territory always counts as friendly territory <for [Human player]>",
 		    "Damage is ignored when determining unit Strength <for [Human player]>",
 		    "Great General provides double combat bonus <for [Human player]>",
@@ -17,6 +18,7 @@
 		    "All healing effects doubled <for [Human player]>",
 		    "May choose [2] additional [Any] beliefs when [founding] a religion <for [Human player]>",
 		    "[+2 Production, +2 Faith, +2 Food] from every [Natural Wonder] <for [Human player]>",
-	            "Reveals the entire map <for [Human player]>"]
+	            "Reveals the entire map <for [Human player]>",
+		    "[+1 Food, +1 Production, +1 Culture] from [All] tiles [in all cities] <with [1] to [6] neighboring [Natural Wonder] tiles>",]
 	},
 ]
