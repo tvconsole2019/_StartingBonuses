@@ -1,22 +1,15 @@
 
 [
 	{
-		"name": "Ok",
+		"name": "Okay",
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [ "Automatically built in all cities where it is buildable",
 		    "Limited to [1] per Civilization",
-	            "Science gained from research agreements [-95]% <for [AI player]>",
-	            "[-50]% Production when constructing [World Wonder] wonders [in all cities] <for [AI player]>",
+	            "Science gained from research agreements [-75]% <for [AI player]>",
+		    "[-50]% Yield from every [Natural Wonder] <for [AI player]>",
 	            "[50]% Yield from every [Natural Wonder] <for [Human player]>",
-		    "[25]% Yield from every [Terrain] <for [Human player]>",
-		    "City-State territory always counts as friendly territory <for [Human player]>",
-		    "Damage is ignored when determining unit Strength <for [Human player]>",
-		    "Great General provides double combat bonus <for [Human player]>",
-	            "Notified of new Barbarian encampments <for [Human player]>",
-		    "All healing effects doubled <for [Human player]>",
-		    "May choose [2] additional [Any] beliefs when [founding] a religion <for [Human player]>",
-		    "[+1 Production, +1 Faith, +1 Food, +1 Culture] from every [Natural Wonder] <for [Human player]>"]
+		    "[+1 Faith, +1 Culture] from every [Terrain] <for [Human player]>"]
 	},
 ]
