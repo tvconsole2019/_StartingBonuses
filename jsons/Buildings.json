@@ -10,7 +10,8 @@
 	            "Science gained from research agreements [-75]% <for [AI player]>",
 		    "[-50]% Yield from every [Natural Wonder] <for [AI player]>",
 	            "[50]% Yield from every [Natural Wonder] <for [Human player]>",
+		    "[25]% Yield from every [Terrain] <for [Human player]>",
 		    "[-50]% Unhappiness from [Population] [in all cities] <for [Human player]>",
-		    "[+1 Faith] from every [Terrain] <for [Human player]>"]
+		    "[+1 Faith, +1 Culture] from every [Terrain] <for [Human player]>"]
 	},
 ]
