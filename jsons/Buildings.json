@@ -7,11 +7,10 @@
 		"maintenance": 0,
 		"uniques": [ "Automatically built in all cities where it is buildable",
 		    "Limited to [1] per Civilization",
-	            "Science gained from research agreements [-75]% <for [AI player]>",
+		    "[-50]% Yield from every [Terrain] <for [AI player]>",
+	            "gained from research agreements [-75]% <for [AI player]>",
 		    "[-50]% Yield from every [Natural Wonder] <for [AI player]>",
 	            "[50]% Yield from every [Natural Wonder] <for [Human player]>",
-		    "[25]% Yield from every [Terrain] <for [Human player]>",
-		    "[-50]% Unhappiness from [Population] [in all cities] <for [Human player]>",
-		    "[+1 Faith, +1 Culture] from every [Terrain] <for [Human player]>"]
+		    "[-50]% Unhappiness from [Population] [in all cities] <for [Human player]>"]
 	},
 ]
