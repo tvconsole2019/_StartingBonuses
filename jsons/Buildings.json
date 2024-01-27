@@ -13,6 +13,7 @@
 		    "[25]% Yield from every [Terrain] <for [Human player]>",
 		    "Resting point for Influence with City-States is increased by [100] <for [Human player]>",
 		    "City-State territory always counts as friendly territory <for [Human player]>",
-                    "Allied City-States will occasionally gift Great People <for [Human player]>"]
+                    "Allied City-States will occasionally gift Great People <for [Human player]>",
+		    "City-State Influence recovers at twice the normal rate <for [Human player]>"]
 	},
 ]
