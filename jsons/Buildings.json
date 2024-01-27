@@ -11,6 +11,6 @@
 		    "[-50]% Yield from every [Natural Wonder] <for [AI player]>",
 	            "[50]% Yield from every [Natural Wonder] <for [Human player]>",
 		    "[25]% Yield from every [Terrain] <for [Human player]>",
-		    "[+1 Production, +1 Faith] from every [Terrain] <for [Human player]>"]
+		    "Resting point for Influence with City-States is increased by [100] <for [Human player]>"]
 	},
 ]
