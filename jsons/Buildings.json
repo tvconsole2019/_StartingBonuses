@@ -8,11 +8,6 @@
 		"uniques": [ "Automatically built in all cities where it is buildable",
 		    "Limited to [1] per Civilization",
 	            "gained from research agreements [-75]% <for [AI player]>",
-		    "[-50]% Yield from every [Natural Wonder] <for [AI player]>",
-	            "[50]% Yield from every [Natural Wonder] <for [Human player]>",
-		    "Resting point for Influence with City-States is increased by [100] <for [Human player]>",
-		    "City-State territory always counts as friendly territory <for [Human player]>",
-                    "Allied City-States will occasionally gift Great People <for [Human player]>",
-		    "City-State Influence recovers at twice the normal rate <for [Human player]>"]
+		    "[+1 Production, +1 Faith] from every [Terrain] <for [Human player]>"]
 	},
 ]
