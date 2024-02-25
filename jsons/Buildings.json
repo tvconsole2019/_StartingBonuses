@@ -8,6 +8,10 @@
 		"uniques": [ "Automatically built in all cities where it is buildable",
 		    "Limited to [1] per Civilization",
 	            "gained from research agreements [200]% <for [Human player]>",
-		    "[+1 Production, +1 Faith, +1 Happiness, +1 Gold] from every [Terrain] <for [Human player]>"]
+		    "[50]% [Science] [in all cities] <for [Human player]>",
+		    "[50]% [Culture] [in all cities] <for [Human player]>",
+		    "[50]% [Food] [in all cities] <for [Human player]>",
+                    "[50]% [Production] [in all cities] <for [Human player]>",
+                    "[50]% [Faith] [in all cities] <for [Human player]>"]
 	},
 ]
