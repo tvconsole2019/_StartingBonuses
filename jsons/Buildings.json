@@ -1,7 +1,7 @@
 
 [
 	{
-		"name": "Okay",
+		"name": "50% more stats activated!",
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 0,
@@ -12,6 +12,7 @@
 		    "[50]% [Food] [in all cities] <for [Human player]>",
                     "[50]% [Production] [in all cities] <for [Human player]>",
                     "[50]% [Faith] [in all cities] <for [Human player]>",
-	            "[50]% [Gold] [in all cities] <for [Human player]>"]
+	            "[50]% [Gold] [in all cities] <for [Human player]>",
+		    "[50]% [Happiness] [in all cities] <for [Human player]>"]
 	},
 ]
