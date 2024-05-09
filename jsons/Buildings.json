@@ -1,18 +1,12 @@
 
 [
 	{
-		"name": "50% more stats activated!",
+		"name": "Fr33 W0rk3r",
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [ "Automatically built in all cities where it is buildable",
 		    "Limited to [1] per Civilization",
-		    "[50]% [Science] [in all cities] <for [Human player]>",
-		    "[50]% [Culture] [in all cities] <for [Human player]>",
-		    "[50]% [Food] [in all cities] <for [Human player]>",
-                    "[50]% [Production] [in all cities] <for [Human player]>",
-                    "[50]% [Faith] [in all cities] <for [Human player]>",
-	            "[50]% [Gold] [in all cities] <for [Human player]>",
-		    "[50]% [Happiness] [in all cities] <for [Human player]>"]
+		    "Free [Worker] appears <for [Human player]>"]
 	},
 ]
