@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Starting Bonus",
+        "text": "Pick Your Starting Bonuses (Can only pick one).",
+        "choices": [
+            {
+                "text": "Gain Faith",
+                "triggeredUniques": ["Gain [4] [Faith] (modified by game speed)"],
+                "conditions": []
+            },
+            {
+                "text": "Gain Culture",
+                "triggeredUniques": ["Gain [6] [Culture] (modified by game speed)"],
+                "conditions": []
+            },
+            {
+                "text": "Gain Science",
+                "triggeredUniques": ["Gain [6] [Science] (modified by game speed)"],
+                "conditions": []
+            },
+            {
+                "text": "Gain Gold",
+                "triggeredUniques": ["Gain [15] [Gold] (modified by game speed)"],
+                "conditions": []
+            },
+            {
+                "text": "Gain Resource",
+                "triggeredUniques": ["Instantly provides [3] [Horses]", "Instantly provides [3] [Iron]"],
+                "conditions": []
+            },
+            {
+                "text": "Gain Power",
+                "triggeredUniques": ["[+10]% Strength <for [Military] units> <for [1] turns>"],
+                "conditions": []    
+            },
+        ]
+    },
+]
