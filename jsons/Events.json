@@ -33,6 +33,21 @@
                 "triggeredUniques": ["[Great Scientist] is earned [33]% faster"],
                 "conditions": []
             },
+            {
+                "text": "1+ Production Start",
+                "triggeredUniques": ["[+1 Production] [in capital]"],
+                "conditions": []
+            },
+            {
+                "text": "2+ Food Start",
+                "triggeredUniques": ["[+2 Food] [in capital]"],
+                "conditions": []
+            },
+            {
+                "text": "1+ Culture Start",
+                "triggeredUniques": ["[+1 Culture] [in capital]"],
+                "conditions": []
+            },
         ]
     },
 ]
