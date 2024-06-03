@@ -55,7 +55,7 @@
             },
             {
                 "text": "More Settler Production",
-                "triggeredUniques": ["[+33]% Production when constructing [Settler] units [in all cities]"],
+                "triggeredUniques": ["[+33]% Production when constructing [Settler] units [in capital]"],
                 "conditions": []
             },
             {
@@ -66,12 +66,12 @@
             },
             {
                 "text": "More Military Production",
-                "triggeredUniques": ["[+33]% Production when constructing [Military] units [in all cities]"],
+                "triggeredUniques": ["[+33]% Production when constructing [Military] units [in capital]"],
                 "conditions": []
             },
             {
                 "text": "Discounted Tiles",
-                "triggeredUniques": ["[-33]% Culture cost of natural border growth [in capital]"],
+                "triggeredUniques": ["[-33]% Gold cost of acquiring tiles [in capital]"],
                 "conditions": []
             },
             {
@@ -82,7 +82,7 @@
             },
             {
                 "text": "Discounted Buy Building",
-                "triggeredUniques": ["[-33]% Culture cost of natural border growth [in capital]"],
+                "triggeredUniques": ["[Gold] cost of purchasing items in cities [-33]% <in [Capital] cities>"],
                 "conditions": []
             },
         ]
