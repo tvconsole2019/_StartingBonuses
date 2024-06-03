@@ -20,12 +20,17 @@
             },
             {
                 "text": "Faster Great General",
-                "triggeredUniques": ["Free [Archer] appears"],
+                "triggeredUniques": ["[Great General] is earned [33]% faster"],
                 "conditions": []
             },
             {
                 "text": "Free Worker",
-                "triggeredUniques": ["Free [Worker] appears"],
+                "triggeredUniques": ["Free [Worker] appears", "[+1 Gold, +2 Production] [in all cities]"],
+                "conditions": []
+            },
+            {
+                "text": "Faster Great Scientist",
+                "triggeredUniques": ["[Great Scientist] is earned [33]% faster"],
                 "conditions": []
             },
         ]
