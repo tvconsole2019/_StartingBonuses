@@ -82,7 +82,7 @@
             },
             {
                 "text": "Discounted Buy Building",
-                "triggeredUniques": ["[Gold] cost of purchasing items in cities [-33]% <in [Capital] cities>"],
+                "triggeredUniques": ["[Gold] cost of purchasing items in cities [-33]%"],
                 "conditions": []
             },
         ]
