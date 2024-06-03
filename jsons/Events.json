@@ -48,6 +48,41 @@
                 "triggeredUniques": ["[+1 Culture] [in capital]"],
                 "conditions": []
             },
+            {
+                "text": "Faster Tile Expansion",
+                "triggeredUniques": ["[-33]% Culture cost of natural border growth [in capital]"],
+                "conditions": []
+            },
+            {
+                "text": "More Settler Production",
+                "triggeredUniques": ["[-33]% Culture cost of natural border growth [in capital]"],
+                "conditions": []
+            },
+            {
+                "text": "More City-States Influence",
+                "triggeredUniques": ["[-33]% Culture cost of natural border growth [in capital]"],
+                "conditions": []
+            },
+            {
+                "text": "More Military Production",
+                "triggeredUniques": ["[-33]% Culture cost of natural border growth [in capital]"],
+                "conditions": []
+            },
+            {
+                "text": "Discounted Tiles",
+                "triggeredUniques": ["[-33]% Culture cost of natural border growth [in capital]"],
+                "conditions": []
+            },
+            {
+                "text": "Less Degradations",
+                "triggeredUniques": ["[-33]% Culture cost of natural border growth [in capital]"],
+                "conditions": []
+            },
+            {
+                "text": "Discounted Buy Building",
+                "triggeredUniques": ["[-33]% Culture cost of natural border growth [in capital]"],
+                "conditions": []
+            },
         ]
     },
 ]
