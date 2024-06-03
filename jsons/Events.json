@@ -55,17 +55,18 @@
             },
             {
                 "text": "More Settler Production",
-                "triggeredUniques": ["[-33]% Culture cost of natural border growth [in capital]"],
+                "triggeredUniques": ["[+33]% Production when constructing [Settler] units [in all cities]"],
                 "conditions": []
             },
             {
                 "text": "More City-States Influence",
-                "triggeredUniques": ["[-33]% Culture cost of natural border growth [in capital]"],
+                "triggeredUniques": ["Gifts of Gold to City-States generate [+33]% more Influence",
+                                     "Resting point for Influence with City-States is increased by [15]"],
                 "conditions": []
             },
             {
                 "text": "More Military Production",
-                "triggeredUniques": ["[-33]% Culture cost of natural border growth [in capital]"],
+                "triggeredUniques": ["[+33]% Production when constructing [Military] units [in all cities]"],
                 "conditions": []
             },
             {
@@ -75,7 +76,8 @@
             },
             {
                 "text": "Less Degradations",
-                "triggeredUniques": ["[-33]% Culture cost of natural border growth [in capital]"],
+                "triggeredUniques": ["[-33]% City-State Influence degradation",
+                                     "Resting point for Influence with City-States is increased by [15]"],
                 "conditions": []
             },
             {
