@@ -85,6 +85,26 @@
                 "triggeredUniques": ["[Gold] cost of purchasing items in cities [-33]%"],
                 "conditions": []
             },
+            {
+                "text": "1+ Scout Movement",
+                "triggeredUniques": ["[+1] Movement <for [Scout] units>"],
+                "conditions": []
+            },
+            {
+                "text": "1+ Naval Unit Movement",
+                "triggeredUniques": ["[+1] Movement <for [Water] units>"],
+                "conditions": []
+            },
+            {
+                "text": "1+ Non-Military Unit Movement",
+                "triggeredUniques": ["[+1] Movement <for [non-[Military]] units>"],
+                "conditions": []
+            },
+            {
+                "text": "Double Great General Bonus",
+                "triggeredUniques": ["Great General provides double combat bonus"],
+                "conditions": []
+            },
         ]
     },
 ]
